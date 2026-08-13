@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "baseImage": {
-    "url": "/public/custom/taipei-trade/1f.jpg",
+    "url": "https://superbeeee.github.io/lair-floorplans/taipei-trade/1f.jpg",
     "width": 1700,
     "height": 1700
   },
@@ -13,6 +13,10 @@
       "x": -1,
       "y": 0
     }
+  },
+  "defaultStart": {
+    "x": 107,
+    "y": 187
   },
   "obstacles": [
     {
@@ -1872,11 +1876,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "手扶梯",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "手扶梯"
     },
     {
       "id": 10,
@@ -1903,8 +1903,7 @@
       "presetId": 4,
       "presetType": "origin",
       "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "fillColor": "#ffffff"
       }
     },
     {
@@ -1930,8 +1929,7 @@
       "nodeIds": [],
       "label": "廁所",
       "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "fillColor": "#ffffff"
       }
     },
     {
@@ -1957,8 +1955,7 @@
       "nodeIds": [],
       "label": "電梯",
       "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "fillColor": "#ffffff"
       }
     },
     {
@@ -1984,8 +1981,7 @@
       "nodeIds": [],
       "label": "星巴克",
       "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "fillColor": "#369646"
       }
     },
     {
@@ -2013,8 +2009,7 @@
       "presetId": 6,
       "presetType": "origin",
       "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "fillColor": "#ffffff"
       }
     },
     {
@@ -2040,11 +2035,7 @@
       "nodeIds": [],
       "label": "手扶梯(下)",
       "presetId": 3,
-      "presetType": "origin",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "presetType": "origin"
     },
     {
       "id": 27,
@@ -2069,11 +2060,7 @@
       "nodeIds": [],
       "label": "手扶梯(上)",
       "presetId": 2,
-      "presetType": "origin",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "presetType": "origin"
     },
     {
       "id": 28,
@@ -2098,8 +2085,7 @@
       "nodeIds": [],
       "label": "公用電話",
       "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "fillColor": "#ffffff"
       }
     },
     {
@@ -2125,11 +2111,7 @@
       "nodeIds": [],
       "label": "公用電話",
       "presetId": 8,
-      "presetType": "origin",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "presetType": "origin"
     },
     {
       "id": 30,
@@ -2181,8 +2163,7 @@
       "nodeIds": [],
       "label": "電梯",
       "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "fillColor": "#ffffff"
       }
     },
     {
@@ -2206,11 +2187,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "逃生出口"
     },
     {
       "id": 48,
@@ -3148,11 +3125,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "樓梯",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "樓梯"
     },
     {
       "id": 152,
@@ -3175,11 +3148,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "男廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "男廁"
     },
     {
       "id": 153,
@@ -3206,11 +3175,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "女廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "女廁"
     },
     {
       "id": 154,
@@ -3233,11 +3198,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "女廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "女廁"
     },
     {
       "id": 155,
@@ -3260,11 +3221,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "男廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "男廁"
     },
     {
       "id": 156,
@@ -3287,11 +3244,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "男廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "男廁"
     },
     {
       "id": 157,
@@ -3314,11 +3267,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "女廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "女廁"
     },
     {
       "id": 158,
@@ -3341,11 +3290,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "女廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "女廁"
     },
     {
       "id": 159,
@@ -3368,11 +3313,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "男廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "男廁"
     },
     {
       "id": 160,
@@ -3395,11 +3336,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "男廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "男廁"
     },
     {
       "id": 161,
@@ -3422,11 +3359,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "女廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "女廁"
     },
     {
       "id": 162,
@@ -3449,11 +3382,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "女廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "女廁"
     },
     {
       "id": 163,
@@ -3476,11 +3405,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "男廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "男廁"
     },
     {
       "id": 164,
@@ -3503,11 +3428,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "女廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "女廁"
     },
     {
       "id": 165,
@@ -3530,11 +3451,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "男廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "男廁"
     },
     {
       "id": 166,
@@ -3557,11 +3474,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "男廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "男廁"
     },
     {
       "id": 167,
@@ -3584,11 +3497,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "女廁",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "女廁"
     }
   ]
 }
