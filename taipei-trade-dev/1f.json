@@ -2408,8 +2408,6 @@
       ],
       "nodeIds": [],
       "label": "電梯",
-      "presetId": 4,
-      "presetType": "origin",
       "style": {
         "fillColor": "#ffffff"
       }
