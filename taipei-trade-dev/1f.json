@@ -2425,7 +2425,9 @@
           "y": 166
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2508
+      ],
       "label": "電扶梯／樓梯－中央大廳",
       "style": {
         "fillColorAlpha": 0,
@@ -2480,7 +2482,9 @@
           "y": 67
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2506
+      ],
       "label": "男廁／女廁－世貿廣場入口大廳",
       "style": {
         "fillColor": "#ffffff"
@@ -2534,7 +2538,9 @@
           "y": 55
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2516
+      ],
       "label": "星巴克",
       "style": {
         "fillColor": "#369646",
@@ -2562,7 +2568,9 @@
           "y": 63
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2517
+      ],
       "label": "7-ELEVEN便利商店",
       "presetId": 6,
       "presetType": "origin",
@@ -3462,7 +3470,9 @@
           "y": 76
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2518
+      ],
       "label": "郵局",
       "style": {
         "fillColor": "#ffffff",
@@ -3547,7 +3557,9 @@
           "y": 147
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2524
+      ],
       "label": "A展區",
       "style": {
         "fillColorAlpha": 0,
@@ -3578,7 +3590,9 @@
           "y": 147
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2525
+      ],
       "label": "B展區",
       "style": {
         "fillColorAlpha": 0,
@@ -3605,7 +3619,9 @@
           "y": 100
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2527
+      ],
       "label": "D展區",
       "style": {
         "fillColorAlpha": 0,
@@ -3636,7 +3652,9 @@
           "y": 17
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2526
+      ],
       "label": "C展區",
       "style": {
         "fillColorAlpha": 0,
@@ -3663,7 +3681,9 @@
           "y": 68
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2523
+      ],
       "label": "C區貨物出入口",
       "style": {
         "fillColorAlpha": 0,
@@ -3717,7 +3737,9 @@
           "y": 139
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2521
+      ],
       "label": "A區貨物出入口",
       "style": {
         "fillColorAlpha": 0,
@@ -3768,7 +3790,9 @@
           "y": 31
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2520
+      ],
       "label": "世貿廣場入口",
       "style": {
         "fillColorAlpha": 0,
@@ -3795,7 +3819,9 @@
           "y": 187
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2519
+      ],
       "label": "信義路主要入口",
       "style": {
         "fillColorAlpha": 0,
@@ -3849,7 +3875,9 @@
           "y": 180
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2514
+      ],
       "label": "ATM提款機",
       "style": {
         "fillColorAlpha": 0,
@@ -3877,7 +3905,9 @@
           "y": 153
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2512
+      ],
       "label": "醫護室／急救站",
       "style": {
         "fillColorAlpha": 0,
@@ -3904,7 +3934,9 @@
           "y": 82
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2509
+      ],
       "label": "電扶梯－A區與D區交界",
       "style": {
         "fillColorAlpha": 0,
@@ -3931,7 +3963,9 @@
           "y": 48
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2507
+      ],
       "label": "電梯／樓梯／廁所核心區－C區中央",
       "style": {
         "fillColorAlpha": 0,
@@ -3958,7 +3992,9 @@
           "y": 160
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2505
+      ],
       "label": "男廁／女廁／無障礙廁所－信義路入口中央大廳",
       "style": {
         "fillColorAlpha": 0,
@@ -3985,7 +4021,9 @@
           "y": 124
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2504
+      ],
       "label": "男廁／女廁／無障礙標誌－A區15號門",
       "style": {
         "fillColorAlpha": 0,
@@ -4012,7 +4050,9 @@
           "y": 160
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2503
+      ],
       "label": "男廁／女廁／無障礙標誌－A區16號門",
       "style": {
         "fillColorAlpha": 0,
@@ -4039,7 +4079,9 @@
           "y": 18
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2502
+      ],
       "label": "男廁／女廁－C區10號門",
       "style": {
         "fillColorAlpha": 0,
@@ -4066,7 +4108,9 @@
           "y": 53
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2501
+      ],
       "label": "男廁／女廁－C區9號門",
       "style": {
         "fillColorAlpha": 0,
@@ -4093,7 +4137,9 @@
           "y": 89
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2500
+      ],
       "label": "男廁／女廁－C區7號門",
       "style": {
         "fillColorAlpha": 0,
@@ -4120,7 +4166,9 @@
           "y": 124
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2498
+      ],
       "label": "男廁／女廁／無障礙廁所－B區5號門",
       "style": {
         "fillColorAlpha": 0,
@@ -4147,7 +4195,9 @@
           "y": 160
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2499
+      ],
       "label": "廁所－B區3號門",
       "style": {
         "fillColorAlpha": 0,
@@ -4174,7 +4224,9 @@
           "y": 172
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2511
+      ],
       "label": "警衛室",
       "style": {
         "fillColorAlpha": 0,
@@ -4202,7 +4254,9 @@
           "y": 176
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2510
+      ],
       "label": "服務台／詢問處",
       "style": {
         "fillColorAlpha": 0,
