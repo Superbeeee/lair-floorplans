@@ -2102,6 +2102,48 @@
           "y": 147
         }
       ]
+    },
+    {
+      "id": 278,
+      "shape": [
+        {
+          "x": 94,
+          "y": 172
+        },
+        {
+          "x": 94,
+          "y": 176
+        },
+        {
+          "x": 101,
+          "y": 176
+        },
+        {
+          "x": 101,
+          "y": 172
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "shape": [
+        {
+          "x": 101,
+          "y": 176
+        },
+        {
+          "x": 101,
+          "y": 180
+        },
+        {
+          "x": 94,
+          "y": 180
+        },
+        {
+          "x": 94,
+          "y": 176
+        }
+      ]
     }
   ],
   "passages": [
@@ -2383,10 +2425,12 @@
           "y": 166
         }
       ],
-      "nodeIds": [
-        2508
-      ],
-      "label": "電扶梯／樓梯－中央大廳"
+      "nodeIds": [],
+      "label": "電扶梯／樓梯－中央大廳",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 10,
@@ -2411,7 +2455,9 @@
       "nodeIds": [],
       "label": "電梯",
       "style": {
-        "fillColor": "#ffffff"
+        "fillColor": "#ffffff",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2434,9 +2480,7 @@
           "y": 67
         }
       ],
-      "nodeIds": [
-        2506
-      ],
+      "nodeIds": [],
       "label": "男廁／女廁－世貿廣場入口大廳",
       "style": {
         "fillColor": "#ffffff"
@@ -2465,7 +2509,9 @@
       "nodeIds": [],
       "label": "電梯",
       "style": {
-        "fillColor": "#ffffff"
+        "fillColor": "#ffffff",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2488,12 +2534,12 @@
           "y": 55
         }
       ],
-      "nodeIds": [
-        2516
-      ],
+      "nodeIds": [],
       "label": "星巴克",
       "style": {
-        "fillColor": "#369646"
+        "fillColor": "#369646",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2516,9 +2562,7 @@
           "y": 63
         }
       ],
-      "nodeIds": [
-        2517
-      ],
+      "nodeIds": [],
       "label": "7-ELEVEN便利商店",
       "presetId": 6,
       "presetType": "origin",
@@ -2549,7 +2593,9 @@
       "nodeIds": [],
       "label": "公用電話",
       "style": {
-        "fillColor": "#ffffff"
+        "fillColor": "#ffffff",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2575,7 +2621,11 @@
       "nodeIds": [],
       "label": "公用電話",
       "presetId": 8,
-      "presetType": "origin"
+      "presetType": "origin",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 30,
@@ -2601,7 +2651,9 @@
       "label": "公用電話",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2651,7 +2703,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "逃生出口"
+      "label": "逃生出口",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 48,
@@ -2677,7 +2733,9 @@
       "label": "逃生出口",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2704,7 +2762,9 @@
       "label": "逃生出口",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2735,7 +2795,9 @@
       "label": "逃生出口",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2762,7 +2824,9 @@
       "label": "逃生出口",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2870,7 +2934,9 @@
       "label": "逃生出口",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2953,7 +3019,9 @@
       "presetType": "origin",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -2980,7 +3048,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3007,7 +3077,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3034,7 +3106,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3069,7 +3143,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3096,7 +3172,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3123,7 +3201,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3150,7 +3230,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3204,7 +3286,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3231,7 +3315,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3258,7 +3344,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3285,7 +3373,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3312,7 +3402,9 @@
       "label": "樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3370,13 +3462,13 @@
           "y": 76
         }
       ],
-      "nodeIds": [
-        2518
-      ],
+      "nodeIds": [],
       "label": "郵局",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3403,7 +3495,9 @@
       "label": "AED",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3427,7 +3521,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "樓梯"
+      "label": "樓梯",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 168,
@@ -3449,10 +3547,12 @@
           "y": 147
         }
       ],
-      "nodeIds": [
-        2524
-      ],
-      "label": "A展區"
+      "nodeIds": [],
+      "label": "A展區",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 169,
@@ -3478,10 +3578,12 @@
           "y": 147
         }
       ],
-      "nodeIds": [
-        2525
-      ],
-      "label": "B展區"
+      "nodeIds": [],
+      "label": "B展區",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 170,
@@ -3503,10 +3605,12 @@
           "y": 100
         }
       ],
-      "nodeIds": [
-        2527
-      ],
-      "label": "D展區"
+      "nodeIds": [],
+      "label": "D展區",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 171,
@@ -3532,10 +3636,12 @@
           "y": 17
         }
       ],
-      "nodeIds": [
-        2526
-      ],
-      "label": "C展區"
+      "nodeIds": [],
+      "label": "C展區",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 252,
@@ -3557,10 +3663,12 @@
           "y": 68
         }
       ],
-      "nodeIds": [
-        2523
-      ],
-      "label": "C區貨物出入口"
+      "nodeIds": [],
+      "label": "C區貨物出入口",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 253,
@@ -3582,10 +3690,12 @@
           "y": 139
         }
       ],
-      "nodeIds": [
-        2522
-      ],
-      "label": "B區貨物出入口"
+      "nodeIds": [],
+      "label": "",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 254,
@@ -3607,10 +3717,12 @@
           "y": 139
         }
       ],
-      "nodeIds": [
-        2521
-      ],
-      "label": "A區貨物出入口"
+      "nodeIds": [],
+      "label": "A區貨物出入口",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 255,
@@ -3656,10 +3768,12 @@
           "y": 31
         }
       ],
-      "nodeIds": [
-        2520
-      ],
-      "label": "世貿廣場入口"
+      "nodeIds": [],
+      "label": "世貿廣場入口",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 256,
@@ -3681,10 +3795,12 @@
           "y": 187
         }
       ],
-      "nodeIds": [
-        2519
-      ],
-      "label": "信義路主要入口"
+      "nodeIds": [],
+      "label": "信義路主要入口",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 257,
@@ -3706,10 +3822,12 @@
           "y": 166
         }
       ],
-      "nodeIds": [
-        2513
-      ],
-      "label": "VIP ROOM貴賓室"
+      "nodeIds": [],
+      "label": "",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 260,
@@ -3731,10 +3849,13 @@
           "y": 180
         }
       ],
-      "nodeIds": [
-        2514
-      ],
-      "label": "ATM提款機"
+      "nodeIds": [],
+      "label": "ATM提款機",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      },
+      "isObstacle": false
     },
     {
       "id": 262,
@@ -3756,60 +3877,12 @@
           "y": 153
         }
       ],
-      "nodeIds": [
-        2512
-      ],
-      "label": "醫護室／急救站"
-    },
-    {
-      "id": 263,
-      "shape": [
-        {
-          "x": 101,
-          "y": 172
-        },
-        {
-          "x": 101,
-          "y": 176
-        },
-        {
-          "x": 94,
-          "y": 176
-        },
-        {
-          "x": 94,
-          "y": 172
-        }
-      ],
-      "nodeIds": [
-        2511
-      ],
-      "label": "警衛室"
-    },
-    {
-      "id": 264,
-      "shape": [
-        {
-          "x": 101,
-          "y": 176
-        },
-        {
-          "x": 101,
-          "y": 180
-        },
-        {
-          "x": 94,
-          "y": 180
-        },
-        {
-          "x": 94,
-          "y": 176
-        }
-      ],
-      "nodeIds": [
-        2510
-      ],
-      "label": "服務台／詢問處"
+      "nodeIds": [],
+      "label": "醫護室／急救站",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 266,
@@ -3831,10 +3904,12 @@
           "y": 82
         }
       ],
-      "nodeIds": [
-        2509
-      ],
-      "label": "電扶梯－A區與D區交界"
+      "nodeIds": [],
+      "label": "電扶梯－A區與D區交界",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 268,
@@ -3856,10 +3931,12 @@
           "y": 48
         }
       ],
-      "nodeIds": [
-        2507
-      ],
-      "label": "電梯／樓梯／廁所核心區－C區中央"
+      "nodeIds": [],
+      "label": "電梯／樓梯／廁所核心區－C區中央",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 269,
@@ -3881,10 +3958,12 @@
           "y": 160
         }
       ],
-      "nodeIds": [
-        2505
-      ],
-      "label": "男廁／女廁／無障礙廁所－信義路入口中央大廳"
+      "nodeIds": [],
+      "label": "男廁／女廁／無障礙廁所－信義路入口中央大廳",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 270,
@@ -3906,10 +3985,12 @@
           "y": 124
         }
       ],
-      "nodeIds": [
-        2504
-      ],
-      "label": "男廁／女廁／無障礙標誌－A區15號門"
+      "nodeIds": [],
+      "label": "男廁／女廁／無障礙標誌－A區15號門",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 271,
@@ -3931,10 +4012,12 @@
           "y": 160
         }
       ],
-      "nodeIds": [
-        2503
-      ],
-      "label": "男廁／女廁／無障礙標誌－A區16號門"
+      "nodeIds": [],
+      "label": "男廁／女廁／無障礙標誌－A區16號門",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 272,
@@ -3956,10 +4039,12 @@
           "y": 18
         }
       ],
-      "nodeIds": [
-        2502
-      ],
-      "label": "男廁／女廁－C區10號門"
+      "nodeIds": [],
+      "label": "男廁／女廁－C區10號門",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 273,
@@ -3981,10 +4066,12 @@
           "y": 53
         }
       ],
-      "nodeIds": [
-        2501
-      ],
-      "label": "男廁／女廁－C區9號門"
+      "nodeIds": [],
+      "label": "男廁／女廁－C區9號門",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 274,
@@ -4006,10 +4093,12 @@
           "y": 89
         }
       ],
-      "nodeIds": [
-        2500
-      ],
-      "label": "男廁／女廁－C區7號門"
+      "nodeIds": [],
+      "label": "男廁／女廁－C區7號門",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 275,
@@ -4031,10 +4120,12 @@
           "y": 124
         }
       ],
-      "nodeIds": [
-        2498
-      ],
-      "label": "男廁／女廁／無障礙廁所－B區5號門"
+      "nodeIds": [],
+      "label": "男廁／女廁／無障礙廁所－B區5號門",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 276,
@@ -4056,10 +4147,68 @@
           "y": 160
         }
       ],
-      "nodeIds": [
-        2499
+      "nodeIds": [],
+      "label": "廁所－B區3號門",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 277,
+      "shape": [
+        {
+          "x": 101,
+          "y": 172
+        },
+        {
+          "x": 101,
+          "y": 175
+        },
+        {
+          "x": 104,
+          "y": 175
+        },
+        {
+          "x": 104,
+          "y": 172
+        }
       ],
-      "label": "廁所－B區3號門"
+      "nodeIds": [],
+      "label": "警衛室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      },
+      "isObstacle": false
+    },
+    {
+      "id": 279,
+      "shape": [
+        {
+          "x": 101,
+          "y": 176
+        },
+        {
+          "x": 101,
+          "y": 179
+        },
+        {
+          "x": 104,
+          "y": 179
+        },
+        {
+          "x": 104,
+          "y": 176
+        }
+      ],
+      "nodeIds": [],
+      "label": "服務台／詢問處",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      },
+      "isObstacle": false
     }
   ]
 }
