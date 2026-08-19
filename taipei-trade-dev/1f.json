@@ -3710,8 +3710,10 @@
           "y": 139
         }
       ],
-      "nodeIds": [],
-      "label": "",
+      "nodeIds": [
+        2522
+      ],
+      "label": "B區貨物出入口",
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0
@@ -3848,8 +3850,10 @@
           "y": 166
         }
       ],
-      "nodeIds": [],
-      "label": "",
+      "nodeIds": [
+        2513
+      ],
+      "label": "VIP ROOM貴賓室",
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0
@@ -4230,7 +4234,8 @@
       "label": "警衛室",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       },
       "isObstacle": false
     },
@@ -4261,8 +4266,7 @@
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0
-      },
-      "isObstacle": false
+      }
     }
   ]
 }
