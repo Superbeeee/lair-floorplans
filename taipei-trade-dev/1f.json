@@ -2726,6 +2726,27 @@
           "y": 139
         }
       ]
+    },
+    {
+      "id": 357,
+      "shape": [
+        {
+          "x": 100,
+          "y": 160
+        },
+        {
+          "x": 100,
+          "y": 167
+        },
+        {
+          "x": 101,
+          "y": 167
+        },
+        {
+          "x": 101,
+          "y": 160
+        }
+      ]
     }
   ],
   "passages": [
@@ -3011,8 +3032,6 @@
         2816
       ],
       "label": "1樓中央電梯與手扶梯",
-      "presetId": 8,
-      "presetType": "origin",
       "style": {
         "fillColor": "#ffffff",
         "hideLabel": true,
@@ -3636,7 +3655,9 @@
           "y": 76
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2518
+      ],
       "label": "郵局",
       "style": {
         "fillColor": "#ffffff",
@@ -3703,7 +3724,8 @@
       "label": "A展區",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -3736,7 +3758,8 @@
       "label": "B展區",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -3765,7 +3788,8 @@
       "label": "D展區",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -3798,7 +3822,8 @@
       "label": "C展區",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -4002,7 +4027,9 @@
           "y": 48
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        2507
+      ],
       "label": "電梯／樓梯／廁所核心區－C區中央",
       "style": {
         "fillColorAlpha": 0,
@@ -4813,8 +4840,10 @@
           "y": 168
         }
       ],
-      "nodeIds": [],
-      "label": "Placement 326",
+      "nodeIds": [
+        2814
+      ],
+      "label": "1樓西側公共設施",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5197,6 +5226,64 @@
         2815
       ],
       "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 355,
+      "shape": [
+        {
+          "x": 101,
+          "y": 160
+        },
+        {
+          "x": 101,
+          "y": 163
+        },
+        {
+          "x": 103,
+          "y": 163
+        },
+        {
+          "x": 103,
+          "y": 160
+        }
+      ],
+      "nodeIds": [
+        2814
+      ],
+      "label": "1樓西側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 356,
+      "shape": [
+        {
+          "x": 101,
+          "y": 164
+        },
+        {
+          "x": 101,
+          "y": 167
+        },
+        {
+          "x": 103,
+          "y": 167
+        },
+        {
+          "x": 103,
+          "y": 164
+        },
+        {
+          "x": 102,
+          "y": 164
+        }
+      ],
+      "nodeIds": [
+        2814
+      ],
+      "label": "1樓西側公共設施",
       "presetId": 8,
       "presetType": "origin"
     }
