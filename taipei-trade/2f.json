@@ -493,48 +493,6 @@
       ]
     },
     {
-      "id": 222,
-      "shape": [
-        {
-          "x": 81,
-          "y": 141
-        },
-        {
-          "x": 81,
-          "y": 176
-        },
-        {
-          "x": 98,
-          "y": 176
-        },
-        {
-          "x": 98,
-          "y": 141
-        }
-      ]
-    },
-    {
-      "id": 223,
-      "shape": [
-        {
-          "x": 115,
-          "y": 141
-        },
-        {
-          "x": 115,
-          "y": 176
-        },
-        {
-          "x": 132,
-          "y": 176
-        },
-        {
-          "x": 132,
-          "y": 141
-        }
-      ]
-    },
-    {
       "id": 225,
       "shape": [
         {
@@ -1407,9 +1365,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1439,9 +1397,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1527,9 +1485,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -4664,9 +4622,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -5352,9 +5310,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -5917,6 +5875,156 @@
       "label": "2樓H區展場",
       "presetId": 8,
       "presetType": "origin"
+    },
+    {
+      "id": 301,
+      "shape": [
+        {
+          "x": 81,
+          "y": 140
+        },
+        {
+          "x": 81,
+          "y": 153
+        },
+        {
+          "x": 98,
+          "y": 153
+        },
+        {
+          "x": 98,
+          "y": 140
+        }
+      ],
+      "nodeIds": [
+        20819
+      ],
+      "label": "第三會議室"
+    },
+    {
+      "id": 302,
+      "shape": [
+        {
+          "x": 81,
+          "y": 153
+        },
+        {
+          "x": 81,
+          "y": 162
+        },
+        {
+          "x": 98,
+          "y": 162
+        },
+        {
+          "x": 98,
+          "y": 153
+        }
+      ],
+      "nodeIds": [
+        20820
+      ],
+      "label": "第四會議室"
+    },
+    {
+      "id": 303,
+      "shape": [
+        {
+          "x": 81,
+          "y": 162
+        },
+        {
+          "x": 81,
+          "y": 176
+        },
+        {
+          "x": 98,
+          "y": 176
+        },
+        {
+          "x": 98,
+          "y": 162
+        }
+      ],
+      "nodeIds": [
+        20821
+      ],
+      "label": "第五會議室"
+    },
+    {
+      "id": 304,
+      "shape": [
+        {
+          "x": 115,
+          "y": 140
+        },
+        {
+          "x": 115,
+          "y": 153
+        },
+        {
+          "x": 132,
+          "y": 153
+        },
+        {
+          "x": 132,
+          "y": 140
+        }
+      ],
+      "nodeIds": [
+        20818
+      ],
+      "label": "第二會議室"
+    },
+    {
+      "id": 305,
+      "shape": [
+        {
+          "x": 115,
+          "y": 153
+        },
+        {
+          "x": 115,
+          "y": 162
+        },
+        {
+          "x": 132,
+          "y": 162
+        },
+        {
+          "x": 132,
+          "y": 153
+        }
+      ],
+      "nodeIds": [
+        20817
+      ],
+      "label": "A+會議室"
+    },
+    {
+      "id": 308,
+      "shape": [
+        {
+          "x": 115,
+          "y": 162
+        },
+        {
+          "x": 115,
+          "y": 176
+        },
+        {
+          "x": 132,
+          "y": 176
+        },
+        {
+          "x": 132,
+          "y": 162
+        }
+      ],
+      "nodeIds": [
+        20816
+      ],
+      "label": "第一會議室"
     }
   ]
 }
