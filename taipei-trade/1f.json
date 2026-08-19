@@ -125,27 +125,6 @@
       ]
     },
     {
-      "id": 31,
-      "shape": [
-        {
-          "x": 186,
-          "y": 37
-        },
-        {
-          "x": 186,
-          "y": 44
-        },
-        {
-          "x": 188,
-          "y": 44
-        },
-        {
-          "x": 188,
-          "y": 37
-        }
-      ]
-    },
-    {
       "id": 33,
       "shape": [
         {
@@ -398,27 +377,6 @@
         {
           "x": 121,
           "y": 188
-        }
-      ]
-    },
-    {
-      "id": 91,
-      "shape": [
-        {
-          "x": 113,
-          "y": 156
-        },
-        {
-          "x": 120,
-          "y": 156
-        },
-        {
-          "x": 120,
-          "y": 147
-        },
-        {
-          "x": 113,
-          "y": 147
         }
       ]
     },
@@ -2144,6 +2102,630 @@
           "y": 176
         }
       ]
+    },
+    {
+      "id": 282,
+      "shape": [
+        {
+          "x": 114,
+          "y": 156
+        },
+        {
+          "x": 114,
+          "y": 159
+        },
+        {
+          "x": 120,
+          "y": 159
+        },
+        {
+          "x": 120,
+          "y": 156
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "shape": [
+        {
+          "x": 113,
+          "y": 153
+        },
+        {
+          "x": 113,
+          "y": 147
+        },
+        {
+          "x": 120,
+          "y": 147
+        },
+        {
+          "x": 120,
+          "y": 156
+        },
+        {
+          "x": 114,
+          "y": 156
+        },
+        {
+          "x": 114,
+          "y": 153
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "shape": [
+        {
+          "x": 104,
+          "y": 12
+        },
+        {
+          "x": 98,
+          "y": 12
+        },
+        {
+          "x": 98,
+          "y": 14
+        },
+        {
+          "x": 104,
+          "y": 14
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "shape": [
+        {
+          "x": 135,
+          "y": 12
+        },
+        {
+          "x": 135,
+          "y": 14
+        },
+        {
+          "x": 139,
+          "y": 14
+        },
+        {
+          "x": 139,
+          "y": 12
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "shape": [
+        {
+          "x": 186,
+          "y": 33
+        },
+        {
+          "x": 188,
+          "y": 33
+        },
+        {
+          "x": 188,
+          "y": 48
+        },
+        {
+          "x": 186,
+          "y": 48
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "shape": [
+        {
+          "x": 186,
+          "y": 48
+        },
+        {
+          "x": 186,
+          "y": 53
+        },
+        {
+          "x": 188,
+          "y": 53
+        },
+        {
+          "x": 188,
+          "y": 48
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "shape": [
+        {
+          "x": 186,
+          "y": 63
+        },
+        {
+          "x": 188,
+          "y": 63
+        },
+        {
+          "x": 188,
+          "y": 53
+        },
+        {
+          "x": 186,
+          "y": 53
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "shape": [
+        {
+          "x": 186,
+          "y": 68
+        },
+        {
+          "x": 186,
+          "y": 84
+        },
+        {
+          "x": 188,
+          "y": 84
+        },
+        {
+          "x": 188,
+          "y": 68
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "shape": [
+        {
+          "x": 186,
+          "y": 104
+        },
+        {
+          "x": 186,
+          "y": 108
+        },
+        {
+          "x": 188,
+          "y": 108
+        },
+        {
+          "x": 188,
+          "y": 104
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "shape": [
+        {
+          "x": 186,
+          "y": 115
+        },
+        {
+          "x": 186,
+          "y": 120
+        },
+        {
+          "x": 188,
+          "y": 120
+        },
+        {
+          "x": 188,
+          "y": 115
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "shape": [
+        {
+          "x": 186,
+          "y": 134
+        },
+        {
+          "x": 188,
+          "y": 134
+        },
+        {
+          "x": 188,
+          "y": 124
+        },
+        {
+          "x": 186,
+          "y": 124
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "shape": [
+        {
+          "x": 172,
+          "y": 191
+        },
+        {
+          "x": 172,
+          "y": 193
+        },
+        {
+          "x": 178,
+          "y": 193
+        },
+        {
+          "x": 178,
+          "y": 191
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "shape": [
+        {
+          "x": 142,
+          "y": 191
+        },
+        {
+          "x": 142,
+          "y": 193
+        },
+        {
+          "x": 136,
+          "y": 193
+        },
+        {
+          "x": 136,
+          "y": 191
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "shape": [
+        {
+          "x": 72,
+          "y": 191
+        },
+        {
+          "x": 72,
+          "y": 193
+        },
+        {
+          "x": 80,
+          "y": 193
+        },
+        {
+          "x": 80,
+          "y": 191
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "shape": [
+        {
+          "x": 36,
+          "y": 191
+        },
+        {
+          "x": 36,
+          "y": 193
+        },
+        {
+          "x": 42,
+          "y": 193
+        },
+        {
+          "x": 42,
+          "y": 191
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "shape": [
+        {
+          "x": 26,
+          "y": 125
+        },
+        {
+          "x": 26,
+          "y": 139
+        },
+        {
+          "x": 28,
+          "y": 139
+        },
+        {
+          "x": 28,
+          "y": 124
+        },
+        {
+          "x": 26,
+          "y": 124
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "shape": [
+        {
+          "x": 26,
+          "y": 115
+        },
+        {
+          "x": 26,
+          "y": 120
+        },
+        {
+          "x": 28,
+          "y": 120
+        },
+        {
+          "x": 28,
+          "y": 115
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "shape": [
+        {
+          "x": 75,
+          "y": 71
+        },
+        {
+          "x": 68,
+          "y": 64
+        },
+        {
+          "x": 63,
+          "y": 69
+        },
+        {
+          "x": 68,
+          "y": 74
+        },
+        {
+          "x": 69,
+          "y": 75
+        },
+        {
+          "x": 70,
+          "y": 76
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "shape": [
+        {
+          "x": 63,
+          "y": 69
+        },
+        {
+          "x": 62,
+          "y": 68
+        },
+        {
+          "x": 67,
+          "y": 63
+        },
+        {
+          "x": 68,
+          "y": 64
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "shape": [
+        {
+          "x": 73,
+          "y": 73
+        },
+        {
+          "x": 76,
+          "y": 76
+        },
+        {
+          "x": 78,
+          "y": 74
+        },
+        {
+          "x": 75,
+          "y": 71
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "shape": [
+        {
+          "x": 82,
+          "y": 82
+        },
+        {
+          "x": 82,
+          "y": 84
+        },
+        {
+          "x": 79,
+          "y": 84
+        },
+        {
+          "x": 79,
+          "y": 86
+        },
+        {
+          "x": 82,
+          "y": 86
+        },
+        {
+          "x": 82,
+          "y": 89
+        },
+        {
+          "x": 86,
+          "y": 89
+        },
+        {
+          "x": 86,
+          "y": 82
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "shape": [
+        {
+          "x": 26,
+          "y": 170
+        },
+        {
+          "x": 28,
+          "y": 170
+        },
+        {
+          "x": 28,
+          "y": 160
+        },
+        {
+          "x": 26,
+          "y": 160
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "shape": [
+        {
+          "x": 26,
+          "y": 155
+        },
+        {
+          "x": 26,
+          "y": 160
+        },
+        {
+          "x": 28,
+          "y": 160
+        },
+        {
+          "x": 28,
+          "y": 155
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "shape": [
+        {
+          "x": 187,
+          "y": 99
+        },
+        {
+          "x": 188,
+          "y": 99
+        },
+        {
+          "x": 188,
+          "y": 89
+        },
+        {
+          "x": 187,
+          "y": 89
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "shape": [
+        {
+          "x": 186,
+          "y": 139
+        },
+        {
+          "x": 188,
+          "y": 139
+        },
+        {
+          "x": 188,
+          "y": 155
+        },
+        {
+          "x": 186,
+          "y": 155
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "shape": [
+        {
+          "x": 186,
+          "y": 170
+        },
+        {
+          "x": 188,
+          "y": 170
+        },
+        {
+          "x": 188,
+          "y": 155
+        },
+        {
+          "x": 186,
+          "y": 155
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "shape": [
+        {
+          "x": 186,
+          "y": 27
+        },
+        {
+          "x": 188,
+          "y": 27
+        },
+        {
+          "x": 188,
+          "y": 18
+        },
+        {
+          "x": 186,
+          "y": 18
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "shape": [
+        {
+          "x": 26,
+          "y": 139
+        },
+        {
+          "x": 26,
+          "y": 155
+        },
+        {
+          "x": 28,
+          "y": 155
+        },
+        {
+          "x": 28,
+          "y": 139
+        }
+      ]
     }
   ],
   "passages": [
@@ -2426,10 +3008,14 @@
         }
       ],
       "nodeIds": [
-        20072
+        20814
       ],
-      "label": "電扶梯／樓梯－中央大廳",
+      "label": "1樓中央電梯與手扶梯",
+      "presetId": 8,
+      "presetType": "origin",
       "style": {
+        "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -2454,40 +3040,15 @@
           "y": 167
         }
       ],
-      "nodeIds": [],
-      "label": "電梯",
+      "nodeIds": [
+        20814
+      ],
+      "label": "1樓中央電梯與手扶梯",
       "style": {
         "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 19,
-      "shape": [
-        {
-          "x": 68,
-          "y": 63
-        },
-        {
-          "x": 62,
-          "y": 69
-        },
-        {
-          "x": 66,
-          "y": 73
-        },
-        {
-          "x": 72,
-          "y": 67
-        }
-      ],
-      "nodeIds": [
-        20074
-      ],
-      "label": "男廁／女廁－世貿廣場入口大廳",
-      "style": {
-        "fillColor": "#ffffff"
       }
     },
     {
@@ -2510,13 +3071,17 @@
           "y": 55
         }
       ],
-      "nodeIds": [],
-      "label": "電梯",
+      "nodeIds": [
+        20812
+      ],
+      "label": "1樓西側公共設施",
       "style": {
         "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
-      }
+      },
+      "isObstacle": false
     },
     {
       "id": 24,
@@ -2539,11 +3104,14 @@
         }
       ],
       "nodeIds": [
-        20051
+        20810
       ],
-      "label": "星巴克",
+      "label": "世貿一館 Starbucks",
+      "presetId": 8,
+      "presetType": "origin",
       "style": {
         "fillColor": "#369646",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -2569,97 +3137,14 @@
         }
       ],
       "nodeIds": [
-        20050
+        20811
       ],
-      "label": "7-ELEVEN便利商店",
-      "presetId": 6,
-      "presetType": "origin",
-      "style": {
-        "fillColor": "#ffffff"
-      }
-    },
-    {
-      "id": 28,
-      "shape": [
-        {
-          "x": 186,
-          "y": 155
-        },
-        {
-          "x": 186,
-          "y": 160
-        },
-        {
-          "x": 188,
-          "y": 160
-        },
-        {
-          "x": 188,
-          "y": 155
-        }
-      ],
-      "nodeIds": [],
-      "label": "公用電話",
-      "style": {
-        "fillColor": "#ffffff",
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 29,
-      "shape": [
-        {
-          "x": 26,
-          "y": 155
-        },
-        {
-          "x": 26,
-          "y": 160
-        },
-        {
-          "x": 28,
-          "y": 160
-        },
-        {
-          "x": 28,
-          "y": 155
-        }
-      ],
-      "nodeIds": [],
-      "label": "公用電話",
+      "label": "世貿一館 7-ELEVEN",
       "presetId": 8,
       "presetType": "origin",
       "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 30,
-      "shape": [
-        {
-          "x": 186,
-          "y": 48
-        },
-        {
-          "x": 186,
-          "y": 53
-        },
-        {
-          "x": 188,
-          "y": 53
-        },
-        {
-          "x": 188,
-          "y": 48
-        }
-      ],
-      "nodeIds": [],
-      "label": "公用電話",
-      "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -2684,321 +3169,17 @@
           "y": 130
         }
       ],
-      "nodeIds": [],
-      "label": "電梯",
-      "style": {
-        "fillColor": "#ffffff"
-      }
-    },
-    {
-      "id": 46,
-      "shape": [
-        {
-          "x": 186,
-          "y": 33
-        },
-        {
-          "x": 186,
-          "y": 37
-        },
-        {
-          "x": 188,
-          "y": 37
-        },
-        {
-          "x": 188,
-          "y": 33
-        }
+      "nodeIds": [
+        20814
       ],
-      "nodeIds": [],
-      "label": "逃生出口",
+      "label": "1樓中央電梯與手扶梯",
+      "presetId": 8,
+      "presetType": "origin",
       "style": {
+        "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 48,
-      "shape": [
-        {
-          "x": 186,
-          "y": 44
-        },
-        {
-          "x": 186,
-          "y": 48
-        },
-        {
-          "x": 188,
-          "y": 48
-        },
-        {
-          "x": 188,
-          "y": 44
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9",
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 51,
-      "shape": [
-        {
-          "x": 186,
-          "y": 104
-        },
-        {
-          "x": 186,
-          "y": 108
-        },
-        {
-          "x": 188,
-          "y": 108
-        },
-        {
-          "x": 188,
-          "y": 104
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9",
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 52,
-      "shape": [
-        {
-          "x": 188,
-          "y": 116
-        },
-        {
-          "x": 188,
-          "y": 115
-        },
-        {
-          "x": 186,
-          "y": 115
-        },
-        {
-          "x": 186,
-          "y": 120
-        },
-        {
-          "x": 188,
-          "y": 120
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9",
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 56,
-      "shape": [
-        {
-          "x": 172,
-          "y": 191
-        },
-        {
-          "x": 176,
-          "y": 191
-        },
-        {
-          "x": 176,
-          "y": 193
-        },
-        {
-          "x": 172,
-          "y": 193
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9",
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 57,
-      "shape": [
-        {
-          "x": 136,
-          "y": 191
-        },
-        {
-          "x": 136,
-          "y": 193
-        },
-        {
-          "x": 140,
-          "y": 193
-        },
-        {
-          "x": 140,
-          "y": 191
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
-    },
-    {
-      "id": 58,
-      "shape": [
-        {
-          "x": 72,
-          "y": 191
-        },
-        {
-          "x": 72,
-          "y": 193
-        },
-        {
-          "x": 80,
-          "y": 193
-        },
-        {
-          "x": 80,
-          "y": 191
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
-    },
-    {
-      "id": 59,
-      "shape": [
-        {
-          "x": 42,
-          "y": 191
-        },
-        {
-          "x": 42,
-          "y": 193
-        },
-        {
-          "x": 36,
-          "y": 193
-        },
-        {
-          "x": 36,
-          "y": 191
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
-    },
-    {
-      "id": 62,
-      "shape": [
-        {
-          "x": 26,
-          "y": 115
-        },
-        {
-          "x": 26,
-          "y": 120
-        },
-        {
-          "x": 28,
-          "y": 120
-        },
-        {
-          "x": 28,
-          "y": 115
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9",
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 63,
-      "shape": [
-        {
-          "x": 78,
-          "y": 74
-        },
-        {
-          "x": 76,
-          "y": 76
-        },
-        {
-          "x": 71,
-          "y": 71
-        },
-        {
-          "x": 73,
-          "y": 69
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
-    },
-    {
-      "id": 65,
-      "shape": [
-        {
-          "x": 135,
-          "y": 12
-        },
-        {
-          "x": 139,
-          "y": 12
-        },
-        {
-          "x": 139,
-          "y": 14
-        },
-        {
-          "x": 135,
-          "y": 14
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
       }
     },
     {
@@ -3021,15 +3202,18 @@
           "y": 27
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "presetId": 10,
       "presetType": "origin",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -3052,40 +3236,14 @@
           "y": 63
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9",
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 68,
-      "shape": [
-        {
-          "x": 186,
-          "y": 84
-        },
-        {
-          "x": 186,
-          "y": 89
-        },
-        {
-          "x": 195,
-          "y": 89
-        },
-        {
-          "x": 195,
-          "y": 84
-        }
+      "nodeIds": [
+        20850
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3110,11 +3268,14 @@
           "y": 99
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3147,11 +3308,14 @@
           "y": 134
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3176,11 +3340,14 @@
           "y": 170
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3205,11 +3372,14 @@
           "y": 183
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3234,13 +3404,16 @@
           "y": 187
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -3263,11 +3436,16 @@
           "y": 187
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -3290,11 +3468,14 @@
           "y": 191
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3319,11 +3500,14 @@
           "y": 170
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3348,11 +3532,14 @@
           "y": 139
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3377,11 +3564,14 @@
           "y": 80
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3406,40 +3596,16 @@
           "y": 20
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 81,
-      "shape": [
-        {
-          "x": 98,
-          "y": 12
-        },
-        {
-          "x": 98,
-          "y": 14
-        },
-        {
-          "x": 104,
-          "y": 14
-        },
-        {
-          "x": 104,
-          "y": 12
-        }
-      ],
-      "nodeIds": [],
-      "label": "逃生出口",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
       }
     },
     {
@@ -3470,42 +3636,12 @@
           "y": 76
         }
       ],
-      "nodeIds": [
-        20049
-      ],
+      "nodeIds": [],
       "label": "郵局",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 89,
-      "shape": [
-        {
-          "x": 113,
-          "y": 156
-        },
-        {
-          "x": 113,
-          "y": 159
-        },
-        {
-          "x": 120,
-          "y": 159
-        },
-        {
-          "x": 120,
-          "y": 156
-        }
-      ],
-      "nodeIds": [],
-      "label": "AED",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3530,9 +3666,13 @@
           "y": 157
         }
       ],
-      "nodeIds": [],
-      "label": "樓梯",
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
       "style": {
+        "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3662,93 +3802,6 @@
       }
     },
     {
-      "id": 252,
-      "shape": [
-        {
-          "x": 187,
-          "y": 68
-        },
-        {
-          "x": 187,
-          "y": 84
-        },
-        {
-          "x": 189,
-          "y": 84
-        },
-        {
-          "x": 189,
-          "y": 68
-        }
-      ],
-      "nodeIds": [
-        20044
-      ],
-      "label": "C區貨物出入口",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 253,
-      "shape": [
-        {
-          "x": 187,
-          "y": 139
-        },
-        {
-          "x": 187,
-          "y": 155
-        },
-        {
-          "x": 189,
-          "y": 155
-        },
-        {
-          "x": 189,
-          "y": 139
-        }
-      ],
-      "nodeIds": [
-        20045
-      ],
-      "label": "B區貨物出入口",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 254,
-      "shape": [
-        {
-          "x": 26,
-          "y": 139
-        },
-        {
-          "x": 26,
-          "y": 155
-        },
-        {
-          "x": 28,
-          "y": 155
-        },
-        {
-          "x": 28,
-          "y": 139
-        }
-      ],
-      "nodeIds": [
-        20046
-      ],
-      "label": "A區貨物出入口",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
       "id": 255,
       "shape": [
         {
@@ -3822,12 +3875,14 @@
         }
       ],
       "nodeIds": [
-        20048
+        20803
       ],
       "label": "信義路主要入口",
       "style": {
+        "fillColor": "#ffffff",
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -3851,10 +3906,14 @@
         }
       ],
       "nodeIds": [
-        20054
+        20806
       ],
-      "label": "VIP ROOM貴賓室",
+      "label": "一樓貴賓室 VIP Room",
+      "presetId": 8,
+      "presetType": "origin",
       "style": {
+        "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3883,7 +3942,10 @@
         20053
       ],
       "label": "ATM提款機",
+      "presetId": 8,
+      "presetType": "origin",
       "style": {
+        "fillColor": "#ffffff",
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       },
@@ -3910,39 +3972,12 @@
         }
       ],
       "nodeIds": [
-        20055
+        20808
       ],
-      "label": "醫護室／急救站",
+      "label": "醫護室",
       "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 266,
-      "shape": [
-        {
-          "x": 86,
-          "y": 82
-        },
-        {
-          "x": 86,
-          "y": 89
-        },
-        {
-          "x": 82,
-          "y": 89
-        },
-        {
-          "x": 82,
-          "y": 82
-        }
-      ],
-      "nodeIds": [
-        20071
-      ],
-      "label": "電扶梯－A區與D區交界",
-      "style": {
+        "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
@@ -3967,245 +4002,12 @@
           "y": 48
         }
       ],
-      "nodeIds": [
-        20073
-      ],
+      "nodeIds": [],
       "label": "電梯／樓梯／廁所核心區－C區中央",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 269,
-      "shape": [
-        {
-          "x": 101,
-          "y": 160
-        },
-        {
-          "x": 101,
-          "y": 167
-        },
-        {
-          "x": 94,
-          "y": 167
-        },
-        {
-          "x": 94,
-          "y": 160
-        }
-      ],
-      "nodeIds": [
-        20075
-      ],
-      "label": "男廁／女廁／無障礙廁所－信義路入口中央大廳",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 270,
-      "shape": [
-        {
-          "x": 22,
-          "y": 124
-        },
-        {
-          "x": 22,
-          "y": 134
-        },
-        {
-          "x": 28,
-          "y": 134
-        },
-        {
-          "x": 28,
-          "y": 124
-        }
-      ],
-      "nodeIds": [
-        20076
-      ],
-      "label": "男廁／女廁／無障礙標誌－A區15號門",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 271,
-      "shape": [
-        {
-          "x": 22,
-          "y": 160
-        },
-        {
-          "x": 22,
-          "y": 170
-        },
-        {
-          "x": 28,
-          "y": 170
-        },
-        {
-          "x": 28,
-          "y": 160
-        }
-      ],
-      "nodeIds": [
-        20077
-      ],
-      "label": "男廁／女廁／無障礙標誌－A區16號門",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 272,
-      "shape": [
-        {
-          "x": 186,
-          "y": 18
-        },
-        {
-          "x": 186,
-          "y": 27
-        },
-        {
-          "x": 195,
-          "y": 27
-        },
-        {
-          "x": 195,
-          "y": 18
-        }
-      ],
-      "nodeIds": [
-        20078
-      ],
-      "label": "男廁／女廁－C區10號門",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 273,
-      "shape": [
-        {
-          "x": 186,
-          "y": 53
-        },
-        {
-          "x": 186,
-          "y": 63
-        },
-        {
-          "x": 195,
-          "y": 63
-        },
-        {
-          "x": 195,
-          "y": 53
-        }
-      ],
-      "nodeIds": [
-        20079
-      ],
-      "label": "男廁／女廁－C區9號門",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 274,
-      "shape": [
-        {
-          "x": 186,
-          "y": 89
-        },
-        {
-          "x": 186,
-          "y": 99
-        },
-        {
-          "x": 195,
-          "y": 99
-        },
-        {
-          "x": 195,
-          "y": 89
-        }
-      ],
-      "nodeIds": [
-        20080
-      ],
-      "label": "男廁／女廁－C區7號門",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 275,
-      "shape": [
-        {
-          "x": 186,
-          "y": 124
-        },
-        {
-          "x": 186,
-          "y": 134
-        },
-        {
-          "x": 195,
-          "y": 134
-        },
-        {
-          "x": 195,
-          "y": 124
-        }
-      ],
-      "nodeIds": [
-        20082
-      ],
-      "label": "男廁／女廁／無障礙廁所－B區5號門",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 276,
-      "shape": [
-        {
-          "x": 186,
-          "y": 160
-        },
-        {
-          "x": 186,
-          "y": 170
-        },
-        {
-          "x": 195,
-          "y": 170
-        },
-        {
-          "x": 195,
-          "y": 160
-        }
-      ],
-      "nodeIds": [
-        20081
-      ],
-      "label": "廁所－B區3號門",
-      "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -4229,10 +4031,14 @@
         }
       ],
       "nodeIds": [
-        20056
+        20807
       ],
-      "label": "警衛室",
+      "label": "服務台／警衛室",
+      "presetId": 8,
+      "presetType": "origin",
       "style": {
+        "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       },
@@ -4259,14 +4065,1140 @@
         }
       ],
       "nodeIds": [
-        20070
+        20807
       ],
-      "label": "服務台／詢問處",
+      "label": "服務台／警衛室",
+      "presetId": 8,
+      "presetType": "origin",
       "style": {
+        "fillColor": "#ffffff",
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       },
       "isObstacle": false
+    },
+    {
+      "id": 281,
+      "shape": [
+        {
+          "x": 111,
+          "y": 156
+        },
+        {
+          "x": 111,
+          "y": 159
+        },
+        {
+          "x": 114,
+          "y": 159
+        },
+        {
+          "x": 114,
+          "y": 156
+        }
+      ],
+      "nodeIds": [
+        20851
+      ],
+      "label": "1樓 AED",
+      "presetId": 8,
+      "presetType": "origin",
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": 283,
+      "shape": [
+        {
+          "x": 111,
+          "y": 153
+        },
+        {
+          "x": 111,
+          "y": 156
+        },
+        {
+          "x": 114,
+          "y": 156
+        },
+        {
+          "x": 114,
+          "y": 153
+        }
+      ],
+      "nodeIds": [
+        20825
+      ],
+      "label": "哺集乳室／育嬰室",
+      "presetId": 8,
+      "presetType": "origin",
+      "style": {
+        "fillColor": "#ffffff"
+      }
+    },
+    {
+      "id": 286,
+      "shape": [
+        {
+          "x": 103,
+          "y": 14
+        },
+        {
+          "x": 103,
+          "y": 16
+        },
+        {
+          "x": 100,
+          "y": 16
+        },
+        {
+          "x": 100,
+          "y": 14
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 287,
+      "shape": [
+        {
+          "x": 136,
+          "y": 14
+        },
+        {
+          "x": 136,
+          "y": 16
+        },
+        {
+          "x": 138,
+          "y": 16
+        },
+        {
+          "x": 138,
+          "y": 14
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 290,
+      "shape": [
+        {
+          "x": 183,
+          "y": 39
+        },
+        {
+          "x": 183,
+          "y": 42
+        },
+        {
+          "x": 186,
+          "y": 42
+        },
+        {
+          "x": 186,
+          "y": 39
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 293,
+      "shape": [
+        {
+          "x": 186,
+          "y": 48
+        },
+        {
+          "x": 183,
+          "y": 48
+        },
+        {
+          "x": 183,
+          "y": 51
+        },
+        {
+          "x": 186,
+          "y": 51
+        }
+      ],
+      "nodeIds": [
+        20847
+      ],
+      "label": "館內公共電話",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 294,
+      "shape": [
+        {
+          "x": 183,
+          "y": 56
+        },
+        {
+          "x": 186,
+          "y": 56
+        },
+        {
+          "x": 186,
+          "y": 53
+        },
+        {
+          "x": 183,
+          "y": 53
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 295,
+      "shape": [
+        {
+          "x": 186,
+          "y": 61
+        },
+        {
+          "x": 183,
+          "y": 61
+        },
+        {
+          "x": 183,
+          "y": 63
+        },
+        {
+          "x": 186,
+          "y": 63
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 297,
+      "shape": [
+        {
+          "x": 184,
+          "y": 75
+        },
+        {
+          "x": 184,
+          "y": 77
+        },
+        {
+          "x": 186,
+          "y": 77
+        },
+        {
+          "x": 186,
+          "y": 75
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 299,
+      "shape": [
+        {
+          "x": 187,
+          "y": 84
+        },
+        {
+          "x": 187,
+          "y": 89
+        },
+        {
+          "x": 195,
+          "y": 89
+        },
+        {
+          "x": 195,
+          "y": 84
+        }
+      ],
+      "nodeIds": [
+        20850
+      ],
+      "label": "館內樓梯",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 300,
+      "shape": [
+        {
+          "x": 187,
+          "y": 88
+        },
+        {
+          "x": 184,
+          "y": 88
+        },
+        {
+          "x": 184,
+          "y": 91
+        },
+        {
+          "x": 187,
+          "y": 91
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 302,
+      "shape": [
+        {
+          "x": 184,
+          "y": 94
+        },
+        {
+          "x": 184,
+          "y": 97
+        },
+        {
+          "x": 187,
+          "y": 97
+        },
+        {
+          "x": 187,
+          "y": 94
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 306,
+      "shape": [
+        {
+          "x": 184,
+          "y": 110
+        },
+        {
+          "x": 186,
+          "y": 110
+        },
+        {
+          "x": 186,
+          "y": 113
+        },
+        {
+          "x": 184,
+          "y": 113
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 307,
+      "shape": [
+        {
+          "x": 184,
+          "y": 124
+        },
+        {
+          "x": 184,
+          "y": 126
+        },
+        {
+          "x": 186,
+          "y": 126
+        },
+        {
+          "x": 186,
+          "y": 124
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 308,
+      "shape": [
+        {
+          "x": 184,
+          "y": 129
+        },
+        {
+          "x": 184,
+          "y": 132
+        },
+        {
+          "x": 186,
+          "y": 132
+        },
+        {
+          "x": 186,
+          "y": 129
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 309,
+      "shape": [
+        {
+          "x": 181,
+          "y": 132
+        },
+        {
+          "x": 181,
+          "y": 134
+        },
+        {
+          "x": 186,
+          "y": 134
+        },
+        {
+          "x": 186,
+          "y": 132
+        },
+        {
+          "x": 182,
+          "y": 132
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 311,
+      "shape": [
+        {
+          "x": 184,
+          "y": 146
+        },
+        {
+          "x": 184,
+          "y": 148
+        },
+        {
+          "x": 186,
+          "y": 148
+        },
+        {
+          "x": 186,
+          "y": 146
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 312,
+      "shape": [
+        {
+          "x": 184,
+          "y": 155
+        },
+        {
+          "x": 184,
+          "y": 158
+        },
+        {
+          "x": 186,
+          "y": 158
+        },
+        {
+          "x": 186,
+          "y": 155
+        }
+      ],
+      "nodeIds": [
+        20847
+      ],
+      "label": "館內公共電話",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 313,
+      "shape": [
+        {
+          "x": 184,
+          "y": 160
+        },
+        {
+          "x": 184,
+          "y": 162
+        },
+        {
+          "x": 186,
+          "y": 162
+        },
+        {
+          "x": 186,
+          "y": 160
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 314,
+      "shape": [
+        {
+          "x": 184,
+          "y": 167
+        },
+        {
+          "x": 184,
+          "y": 169
+        },
+        {
+          "x": 186,
+          "y": 169
+        },
+        {
+          "x": 186,
+          "y": 167
+        }
+      ],
+      "nodeIds": [
+        20812
+      ],
+      "label": "1樓西側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 315,
+      "shape": [
+        {
+          "x": 173,
+          "y": 189
+        },
+        {
+          "x": 173,
+          "y": 191
+        },
+        {
+          "x": 175,
+          "y": 191
+        },
+        {
+          "x": 175,
+          "y": 189
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 318,
+      "shape": [
+        {
+          "x": 137,
+          "y": 189
+        },
+        {
+          "x": 137,
+          "y": 191
+        },
+        {
+          "x": 139,
+          "y": 191
+        },
+        {
+          "x": 139,
+          "y": 189
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 319,
+      "shape": [
+        {
+          "x": 139,
+          "y": 189
+        },
+        {
+          "x": 139,
+          "y": 186
+        },
+        {
+          "x": 142,
+          "y": 186
+        },
+        {
+          "x": 142,
+          "y": 189
+        }
+      ],
+      "nodeIds": [
+        20849
+      ],
+      "label": "寄物櫃／置物櫃",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 321,
+      "shape": [
+        {
+          "x": 75,
+          "y": 191
+        },
+        {
+          "x": 75,
+          "y": 189
+        },
+        {
+          "x": 77,
+          "y": 189
+        },
+        {
+          "x": 77,
+          "y": 191
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 322,
+      "shape": [
+        {
+          "x": 75,
+          "y": 189
+        },
+        {
+          "x": 75,
+          "y": 186
+        },
+        {
+          "x": 72,
+          "y": 186
+        },
+        {
+          "x": 72,
+          "y": 189
+        }
+      ],
+      "nodeIds": [
+        20849
+      ],
+      "label": "寄物櫃／置物櫃",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 323,
+      "shape": [
+        {
+          "x": 41,
+          "y": 189
+        },
+        {
+          "x": 39,
+          "y": 189
+        },
+        {
+          "x": 39,
+          "y": 191
+        },
+        {
+          "x": 41,
+          "y": 191
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 326,
+      "shape": [
+        {
+          "x": 30,
+          "y": 168
+        },
+        {
+          "x": 28,
+          "y": 168
+        },
+        {
+          "x": 28,
+          "y": 170
+        },
+        {
+          "x": 33,
+          "y": 170
+        },
+        {
+          "x": 33,
+          "y": 168
+        }
+      ],
+      "nodeIds": [],
+      "label": "Placement 326",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 327,
+      "shape": [
+        {
+          "x": 30,
+          "y": 167
+        },
+        {
+          "x": 28,
+          "y": 167
+        },
+        {
+          "x": 28,
+          "y": 165
+        },
+        {
+          "x": 30,
+          "y": 165
+        }
+      ],
+      "nodeIds": [
+        20812
+      ],
+      "label": "1樓西側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 328,
+      "shape": [
+        {
+          "x": 28,
+          "y": 162
+        },
+        {
+          "x": 28,
+          "y": 160
+        },
+        {
+          "x": 30,
+          "y": 160
+        },
+        {
+          "x": 30,
+          "y": 162
+        }
+      ],
+      "nodeIds": [
+        20812
+      ],
+      "label": "1樓西側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 329,
+      "shape": [
+        {
+          "x": 28,
+          "y": 158
+        },
+        {
+          "x": 28,
+          "y": 155
+        },
+        {
+          "x": 30,
+          "y": 155
+        },
+        {
+          "x": 30,
+          "y": 158
+        }
+      ],
+      "nodeIds": [
+        20847
+      ],
+      "label": "館內公共電話",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 330,
+      "shape": [
+        {
+          "x": 28,
+          "y": 146
+        },
+        {
+          "x": 28,
+          "y": 148
+        },
+        {
+          "x": 30,
+          "y": 148
+        },
+        {
+          "x": 30,
+          "y": 146
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 331,
+      "shape": [
+        {
+          "x": 28,
+          "y": 132
+        },
+        {
+          "x": 28,
+          "y": 134
+        },
+        {
+          "x": 30,
+          "y": 134
+        },
+        {
+          "x": 30,
+          "y": 132
+        }
+      ],
+      "nodeIds": [
+        20812
+      ],
+      "label": "1樓西側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 332,
+      "shape": [
+        {
+          "x": 28,
+          "y": 127
+        },
+        {
+          "x": 28,
+          "y": 125
+        },
+        {
+          "x": 30,
+          "y": 125
+        },
+        {
+          "x": 30,
+          "y": 127
+        }
+      ],
+      "nodeIds": [
+        20812
+      ],
+      "label": "1樓西側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 335,
+      "shape": [
+        {
+          "x": 28,
+          "y": 116
+        },
+        {
+          "x": 28,
+          "y": 118
+        },
+        {
+          "x": 30,
+          "y": 118
+        },
+        {
+          "x": 30,
+          "y": 116
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 336,
+      "shape": [
+        {
+          "x": 68,
+          "y": 61
+        },
+        {
+          "x": 68,
+          "y": 64
+        },
+        {
+          "x": 71,
+          "y": 64
+        },
+        {
+          "x": 71,
+          "y": 61
+        }
+      ],
+      "nodeIds": [
+        20812
+      ],
+      "label": "1樓西側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 337,
+      "shape": [
+        {
+          "x": 71,
+          "y": 64
+        },
+        {
+          "x": 71,
+          "y": 67
+        },
+        {
+          "x": 73,
+          "y": 67
+        },
+        {
+          "x": 74,
+          "y": 67
+        },
+        {
+          "x": 74,
+          "y": 64
+        }
+      ],
+      "nodeIds": [
+        20812
+      ],
+      "label": "1樓西側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 338,
+      "shape": [
+        {
+          "x": 74,
+          "y": 68
+        },
+        {
+          "x": 74,
+          "y": 70
+        },
+        {
+          "x": 77,
+          "y": 70
+        },
+        {
+          "x": 77,
+          "y": 68
+        }
+      ],
+      "nodeIds": [
+        20848
+      ],
+      "label": "緊急逃生出口",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 342,
+      "shape": [
+        {
+          "x": 82,
+          "y": 80
+        },
+        {
+          "x": 82,
+          "y": 82
+        },
+        {
+          "x": 85,
+          "y": 82
+        },
+        {
+          "x": 85,
+          "y": 80
+        }
+      ],
+      "nodeIds": [
+        20071
+      ],
+      "label": "電扶梯－A區與D區交界",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 349,
+      "shape": [
+        {
+          "x": 184,
+          "y": 18
+        },
+        {
+          "x": 184,
+          "y": 20
+        },
+        {
+          "x": 186,
+          "y": 20
+        },
+        {
+          "x": 186,
+          "y": 18
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 350,
+      "shape": [
+        {
+          "x": 184,
+          "y": 21
+        },
+        {
+          "x": 184,
+          "y": 24
+        },
+        {
+          "x": 186,
+          "y": 24
+        },
+        {
+          "x": 186,
+          "y": 21
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
+    },
+    {
+      "id": 351,
+      "shape": [
+        {
+          "x": 184,
+          "y": 25
+        },
+        {
+          "x": 184,
+          "y": 27
+        },
+        {
+          "x": 186,
+          "y": 27
+        },
+        {
+          "x": 186,
+          "y": 25
+        }
+      ],
+      "nodeIds": [
+        20813
+      ],
+      "label": "1樓東側公共設施",
+      "presetId": 8,
+      "presetType": "origin"
     }
   ]
 }
