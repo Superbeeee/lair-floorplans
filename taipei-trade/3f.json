@@ -1233,7 +1233,10 @@
       "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
+        "strokeColor": "#9f9fa9",
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -9110,7 +9113,9 @@
       "nodeIds": [
         20825
       ],
-      "label": "哺集乳室／育嬰室"
+      "label": "哺集乳室／育嬰室",
+      "presetId": 8,
+      "presetType": "origin"
     },
     {
       "id": 387,
