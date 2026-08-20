@@ -1032,6 +1032,31 @@
           "y": 18
         }
       ]
+    },
+    {
+      "id": 433,
+      "shape": [
+        {
+          "x": 80,
+          "y": 35
+        },
+        {
+          "x": 47,
+          "y": 68
+        },
+        {
+          "x": 46,
+          "y": 69
+        },
+        {
+          "x": 47,
+          "y": 69
+        },
+        {
+          "x": 80,
+          "y": 36
+        }
+      ]
     }
   ],
   "passages": [
@@ -1290,9 +1315,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
