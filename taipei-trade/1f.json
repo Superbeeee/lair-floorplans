@@ -15,8 +15,8 @@
     }
   },
   "defaultStart": {
-    "x": 106,
-    "y": 185
+    "x": 99,
+    "y": 181
   },
   "obstacles": [
     {
@@ -3029,7 +3029,7 @@
         }
       ],
       "nodeIds": [
-        20814
+        21401
       ],
       "label": "1樓中央電梯與手扶梯",
       "style": {
@@ -3060,7 +3060,7 @@
         }
       ],
       "nodeIds": [
-        20814
+        21401
       ],
       "label": "1樓中央電梯與手扶梯",
       "style": {
@@ -3123,7 +3123,7 @@
         }
       ],
       "nodeIds": [
-        20810
+        21399
       ],
       "label": "世貿一館 Starbucks",
       "presetId": 8,
@@ -3156,7 +3156,7 @@
         }
       ],
       "nodeIds": [
-        20811
+        21400
       ],
       "label": "世貿一館 7-ELEVEN",
       "presetId": 8,
@@ -3189,7 +3189,7 @@
         }
       ],
       "nodeIds": [
-        20814
+        21401
       ],
       "label": "1樓中央電梯與手扶梯",
       "presetId": 8,
@@ -3658,7 +3658,7 @@
       "nodeIds": [
         20049
       ],
-      "label": "郵局",
+      "label": "世貿郵局",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
@@ -3719,9 +3719,9 @@
         }
       ],
       "nodeIds": [
-        20043
+        21388
       ],
-      "label": "A展區",
+      "label": "1樓A區展場",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -3753,9 +3753,9 @@
         }
       ],
       "nodeIds": [
-        20042
+        21389
       ],
-      "label": "B展區",
+      "label": "1樓B區展場",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -3783,9 +3783,9 @@
         }
       ],
       "nodeIds": [
-        20040
+        21391
       ],
-      "label": "D展區",
+      "label": "1樓D區展場",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -3817,9 +3817,9 @@
         }
       ],
       "nodeIds": [
-        20041
+        21390
       ],
-      "label": "C展區",
+      "label": "1樓C區展場",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -3871,9 +3871,11 @@
         }
       ],
       "nodeIds": [
-        20047
+        21393
       ],
       "label": "世貿廣場入口",
+      "presetId": 8,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0
@@ -3900,9 +3902,9 @@
         }
       ],
       "nodeIds": [
-        20803
+        21392
       ],
-      "label": "信義路主要入口",
+      "label": "信義路主入口",
       "style": {
         "fillColor": "#ffffff",
         "hideLabel": true,
@@ -3931,7 +3933,7 @@
         }
       ],
       "nodeIds": [
-        20806
+        21395
       ],
       "label": "一樓貴賓室 VIP Room",
       "presetId": 8,
@@ -3964,9 +3966,9 @@
         }
       ],
       "nodeIds": [
-        20053
+        21403
       ],
-      "label": "ATM提款機",
+      "label": "ATM－信義路入口",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -3997,7 +3999,7 @@
         }
       ],
       "nodeIds": [
-        20808
+        21397
       ],
       "label": "醫護室",
       "style": {
@@ -4028,9 +4030,9 @@
         }
       ],
       "nodeIds": [
-        20073
+        21408
       ],
-      "label": "電梯／樓梯／廁所核心區－C區中央",
+      "label": "1樓C區中央電梯／樓梯核心",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -4058,7 +4060,7 @@
         }
       ],
       "nodeIds": [
-        20807
+        21396
       ],
       "label": "服務台／警衛室",
       "presetId": 8,
@@ -4092,7 +4094,7 @@
         }
       ],
       "nodeIds": [
-        20807
+        21396
       ],
       "label": "服務台／警衛室",
       "presetId": 8,
@@ -4125,9 +4127,9 @@
         }
       ],
       "nodeIds": [
-        20851
+        21404
       ],
-      "label": "1樓 AED",
+      "label": "1樓中央大廳 AED",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -4155,9 +4157,9 @@
         }
       ],
       "nodeIds": [
-        20825
+        21422
       ],
-      "label": "哺集乳室／育嬰室",
+      "label": "哺集乳室",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -4266,9 +4268,9 @@
         }
       ],
       "nodeIds": [
-        20847
+        21406
       ],
-      "label": "館內公共電話",
+      "label": "公共電話－9號門 ",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4594,9 +4596,9 @@
         }
       ],
       "nodeIds": [
-        20847
+        21405
       ],
-      "label": "館內公共電話",
+      "label": "公共電話－3號門",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4729,7 +4731,7 @@
         }
       ],
       "nodeIds": [
-        20849
+        21423
       ],
       "label": "寄物櫃／置物櫃",
       "presetId": 8,
@@ -4783,7 +4785,7 @@
         }
       ],
       "nodeIds": [
-        20849
+        21423
       ],
       "label": "寄物櫃／置物櫃",
       "presetId": 8,
@@ -4922,9 +4924,9 @@
         }
       ],
       "nodeIds": [
-        20847
+        21407
       ],
-      "label": "館內公共電話",
+      "label": "公共電話－16號門",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5142,9 +5144,9 @@
         }
       ],
       "nodeIds": [
-        20071
+        21409
       ],
-      "label": "電扶梯－A區與D區交界",
+      "label": "1樓A／D區交界電扶梯",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5196,9 +5198,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21410
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區飲料自動販賣機－10號門附近",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5308,9 +5310,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21414
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區飲料自動販賣機－9號門附近",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5335,9 +5337,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21415
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區飲料自動販賣機－7號門附近 ",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5362,9 +5364,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21417
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓B區飲料自動販賣機－5號門附近",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5389,9 +5391,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21421
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓B區飲料自動販賣機－3號門附近",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5416,9 +5418,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21419
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓信義路大廳飲料自動販賣機",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5443,9 +5445,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21420
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區飲料自動販賣機－16號門附近",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5470,9 +5472,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21418
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區飲料自動販賣機－15號門附近",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5497,9 +5499,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21416
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區飲料自動販賣機－14號門附近",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5524,9 +5526,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21413
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓世貿廣場飲料自動販賣機 ",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5551,9 +5553,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21411
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區飲料自動販賣機－中央電梯旁",
       "presetId": 8,
       "presetType": "origin"
     }
