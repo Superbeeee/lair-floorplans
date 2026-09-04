@@ -5832,7 +5832,11 @@
       "nodeIds": [
         21437
       ],
-      "label": "第三會議室"
+      "label": "第三會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 302,
@@ -5857,7 +5861,11 @@
       "nodeIds": [
         21438
       ],
-      "label": "第四會議室"
+      "label": "第四會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 303,
@@ -5882,7 +5890,11 @@
       "nodeIds": [
         21439
       ],
-      "label": "第五會議室"
+      "label": "第五會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 304,
@@ -5907,7 +5919,11 @@
       "nodeIds": [
         21436
       ],
-      "label": "第二會議室"
+      "label": "第二會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 305,
@@ -5932,7 +5948,11 @@
       "nodeIds": [
         21444
       ],
-      "label": "A+會議室"
+      "label": "A+會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 308,
@@ -5957,7 +5977,11 @@
       "nodeIds": [
         21435
       ],
-      "label": "第一會議室"
+      "label": "第一會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 312,
