@@ -1542,9 +1542,9 @@
         }
       ],
       "nodeIds": [
-        20847
+        21464
       ],
-      "label": "館內公共電話",
+      "label": "2樓餐飲區旁公共電話",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -1573,9 +1573,9 @@
         }
       ],
       "nodeIds": [
-        20847
+        21464
       ],
-      "label": "館內公共電話",
+      "label": "2樓餐飲區旁公共電話",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -1604,9 +1604,9 @@
         }
       ],
       "nodeIds": [
-        20847
+        21465
       ],
-      "label": "館內公共電話",
+      "label": "2樓會議室廊廳西側公共電話",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -1635,9 +1635,9 @@
         }
       ],
       "nodeIds": [
-        20847
+        21466
       ],
-      "label": "館內公共電話",
+      "label": "2樓會議室廊廳東側公共電話",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -4854,9 +4854,9 @@
         }
       ],
       "nodeIds": [
-        20827
+        21463
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓TAI-ONE南側男廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4908,9 +4908,9 @@
         }
       ],
       "nodeIds": [
-        20827
+        21462
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓台北101空橋南側女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4962,9 +4962,9 @@
         }
       ],
       "nodeIds": [
-        20827
+        21461
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓TAI-ONE中段男廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4989,9 +4989,9 @@
         }
       ],
       "nodeIds": [
-        20827
+        21460
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓TAI-ONE北側女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5074,36 +5074,9 @@
         }
       ],
       "nodeIds": [
-        20827
+        21456
       ],
-      "label": "2樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 248,
-      "shape": [
-        {
-          "x": 167,
-          "y": 52
-        },
-        {
-          "x": 167,
-          "y": 46
-        },
-        {
-          "x": 172,
-          "y": 46
-        },
-        {
-          "x": 172,
-          "y": 52
-        }
-      ],
-      "nodeIds": [
-        20827
-      ],
-      "label": "2樓東側公共設施",
+      "label": "2樓展覽處辦公室南側男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5159,9 +5132,9 @@
         }
       ],
       "nodeIds": [
-        20827
+        21455
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓東北角女廁 ",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5225,36 +5198,9 @@
         }
       ],
       "nodeIds": [
-        20826
+        21454
       ],
-      "label": "2樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 253,
-      "shape": [
-        {
-          "x": 93,
-          "y": 34
-        },
-        {
-          "x": 88,
-          "y": 34
-        },
-        {
-          "x": 88,
-          "y": 39
-        },
-        {
-          "x": 93,
-          "y": 39
-        }
-      ],
-      "nodeIds": [
-        20826
-      ],
-      "label": "2樓西側公共設施",
+      "label": "2樓C區北側女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5299,33 +5245,6 @@
       }
     },
     {
-      "id": 255,
-      "shape": [
-        {
-          "x": 49,
-          "y": 75
-        },
-        {
-          "x": 49,
-          "y": 80
-        },
-        {
-          "x": 54,
-          "y": 80
-        },
-        {
-          "x": 54,
-          "y": 75
-        }
-      ],
-      "nodeIds": [
-        20826
-      ],
-      "label": "2樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 256,
       "shape": [
         {
@@ -5346,9 +5265,9 @@
         }
       ],
       "nodeIds": [
-        20826
+        21458
       ],
-      "label": "2樓西側公共設施",
+      "label": "2樓A／B區西側男廁與無障礙廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5408,36 +5327,9 @@
         }
       ],
       "nodeIds": [
-        20826
+        21457
       ],
-      "label": "2樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 259,
-      "shape": [
-        {
-          "x": 41,
-          "y": 122
-        },
-        {
-          "x": 41,
-          "y": 127
-        },
-        {
-          "x": 43,
-          "y": 127
-        },
-        {
-          "x": 43,
-          "y": 122
-        }
-      ],
-      "nodeIds": [
-        20826
-      ],
-      "label": "2樓西側公共設施",
+      "label": "2樓B區西側女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5501,9 +5393,9 @@
         }
       ],
       "nodeIds": [
-        20826
+        21458
       ],
-      "label": "2樓西側公共設施",
+      "label": "2樓A／B區西側男廁與無障礙廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5655,37 +5547,6 @@
       "presetType": "origin"
     },
     {
-      "id": 282,
-      "shape": [
-        {
-          "x": 59,
-          "y": 176
-        },
-        {
-          "x": 59,
-          "y": 177
-        },
-        {
-          "x": 59,
-          "y": 178
-        },
-        {
-          "x": 64,
-          "y": 178
-        },
-        {
-          "x": 64,
-          "y": 176
-        }
-      ],
-      "nodeIds": [
-        20826
-      ],
-      "label": "2樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 283,
       "shape": [
         {
@@ -5706,9 +5567,9 @@
         }
       ],
       "nodeIds": [
-        20826
+        21459
       ],
-      "label": "2樓西側公共設施",
+      "label": "2樓A區南側廁所 ",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -6153,9 +6014,9 @@
       ],
       "label": "TAI-ONE SPACE 智能共享辦公室",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     }
   ]
