@@ -2726,27 +2726,6 @@
           "y": 139
         }
       ]
-    },
-    {
-      "id": 357,
-      "shape": [
-        {
-          "x": 100,
-          "y": 160
-        },
-        {
-          "x": 100,
-          "y": 167
-        },
-        {
-          "x": 101,
-          "y": 167
-        },
-        {
-          "x": 101,
-          "y": 160
-        }
-      ]
     }
   ],
   "passages": [
@@ -3005,6 +2984,35 @@
           "y": 89
         }
       ]
+    },
+    {
+      "id": 374,
+      "shape": [
+        {
+          "x": 94,
+          "y": 162
+        },
+        {
+          "x": 94,
+          "y": 164
+        },
+        {
+          "x": 105,
+          "y": 164
+        },
+        {
+          "x": 105,
+          "y": 163
+        },
+        {
+          "x": 101,
+          "y": 163
+        },
+        {
+          "x": 101,
+          "y": 162
+        }
+      ]
     }
   ],
   "placements": [
@@ -3069,38 +3077,6 @@
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
-    },
-    {
-      "id": 20,
-      "shape": [
-        {
-          "x": 84,
-          "y": 55
-        },
-        {
-          "x": 84,
-          "y": 57
-        },
-        {
-          "x": 86,
-          "y": 57
-        },
-        {
-          "x": 86,
-          "y": 55
-        }
-      ],
-      "nodeIds": [
-        20812
-      ],
-      "label": "1樓西側公共設施",
-      "style": {
-        "fillColor": "#ffffff",
-        "hideLabel": true,
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      },
-      "isObstacle": false
     },
     {
       "id": 24,
@@ -3656,7 +3632,7 @@
         }
       ],
       "nodeIds": [
-        20049
+        19655
       ],
       "label": "世貿郵局",
       "style": {
@@ -4295,9 +4271,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21427
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區公共設施／廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4322,9 +4298,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21427
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區公共設施／廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4403,9 +4379,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21448
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C／B區7號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4430,9 +4406,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21448
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C／B區7號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4484,36 +4460,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21449
       ],
-      "label": "1樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 308,
-      "shape": [
-        {
-          "x": 184,
-          "y": 129
-        },
-        {
-          "x": 184,
-          "y": 132
-        },
-        {
-          "x": 186,
-          "y": 132
-        },
-        {
-          "x": 186,
-          "y": 129
-        }
-      ],
-      "nodeIds": [
-        20813
-      ],
-      "label": "1樓東側公共設施",
+      "label": "1樓B區5號門旁女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4542,9 +4491,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21450
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓B區4號門旁男廁與無障礙廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4623,9 +4572,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21451
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓B區3號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4650,9 +4599,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21451
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓B區3號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4711,33 +4660,6 @@
       "presetType": "origin"
     },
     {
-      "id": 319,
-      "shape": [
-        {
-          "x": 139,
-          "y": 189
-        },
-        {
-          "x": 139,
-          "y": 186
-        },
-        {
-          "x": 142,
-          "y": 186
-        },
-        {
-          "x": 142,
-          "y": 189
-        }
-      ],
-      "nodeIds": [
-        21423
-      ],
-      "label": "寄物櫃／置物櫃",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 321,
       "shape": [
         {
@@ -4761,33 +4683,6 @@
         20848
       ],
       "label": "緊急逃生出口",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 322,
-      "shape": [
-        {
-          "x": 75,
-          "y": 189
-        },
-        {
-          "x": 75,
-          "y": 186
-        },
-        {
-          "x": 72,
-          "y": 186
-        },
-        {
-          "x": 72,
-          "y": 189
-        }
-      ],
-      "nodeIds": [
-        21423
-      ],
-      "label": "寄物櫃／置物櫃",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4843,36 +4738,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21453
       ],
-      "label": "1樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 327,
-      "shape": [
-        {
-          "x": 30,
-          "y": 167
-        },
-        {
-          "x": 28,
-          "y": 167
-        },
-        {
-          "x": 28,
-          "y": 165
-        },
-        {
-          "x": 30,
-          "y": 165
-        }
-      ],
-      "nodeIds": [
-        20812
-      ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區16號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4897,9 +4765,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21453
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區16號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4978,9 +4846,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21452
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區15號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5005,9 +4873,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21452
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區15號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5059,9 +4927,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21429
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓世貿廣場廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5090,9 +4958,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21429
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓世貿廣場廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5124,33 +4992,6 @@
       "presetType": "origin"
     },
     {
-      "id": 342,
-      "shape": [
-        {
-          "x": 82,
-          "y": 80
-        },
-        {
-          "x": 82,
-          "y": 82
-        },
-        {
-          "x": 85,
-          "y": 82
-        },
-        {
-          "x": 85,
-          "y": 80
-        }
-      ],
-      "nodeIds": [
-        21409
-      ],
-      "label": "1樓A／D區交界電扶梯",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 349,
       "shape": [
         {
@@ -5171,36 +5012,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21427
       ],
-      "label": "1樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 350,
-      "shape": [
-        {
-          "x": 184,
-          "y": 21
-        },
-        {
-          "x": 184,
-          "y": 24
-        },
-        {
-          "x": 186,
-          "y": 24
-        },
-        {
-          "x": 186,
-          "y": 21
-        }
-      ],
-      "nodeIds": [
-        21410
-      ],
-      "label": "1樓C區飲料自動販賣機－10號門附近",
+      "label": "1樓C區公共設施／廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5225,9 +5039,9 @@
         }
       ],
       "nodeIds": [
-        20813
+        21427
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區公共設施／廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5252,9 +5066,9 @@
         }
       ],
       "nodeIds": [
-        20812
+        21428
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓中央大廳廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5283,281 +5097,151 @@
         }
       ],
       "nodeIds": [
-        20812
+        21428
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓中央大廳廁所",
       "presetId": 8,
       "presetType": "origin"
     },
     {
-      "id": 358,
+      "id": 368,
       "shape": [
         {
-          "x": 186,
-          "y": 57
-        },
-        {
-          "x": 183,
-          "y": 57
-        },
-        {
-          "x": 183,
-          "y": 60
-        },
-        {
-          "x": 186,
-          "y": 60
-        }
-      ],
-      "nodeIds": [
-        21414
-      ],
-      "label": "1樓C區飲料自動販賣機－9號門附近",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 359,
-      "shape": [
-        {
-          "x": 184,
-          "y": 91
-        },
-        {
-          "x": 187,
-          "y": 91
-        },
-        {
-          "x": 187,
-          "y": 94
-        },
-        {
-          "x": 184,
-          "y": 94
-        }
-      ],
-      "nodeIds": [
-        21415
-      ],
-      "label": "1樓C區飲料自動販賣機－7號門附近 ",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 360,
-      "shape": [
-        {
-          "x": 184,
-          "y": 126
-        },
-        {
-          "x": 186,
-          "y": 126
-        },
-        {
-          "x": 186,
-          "y": 129
-        },
-        {
-          "x": 184,
-          "y": 129
-        }
-      ],
-      "nodeIds": [
-        21417
-      ],
-      "label": "1樓B區飲料自動販賣機－5號門附近",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 361,
-      "shape": [
-        {
-          "x": 184,
-          "y": 163
-        },
-        {
-          "x": 186,
-          "y": 163
-        },
-        {
-          "x": 186,
-          "y": 166
-        },
-        {
-          "x": 184,
-          "y": 166
-        }
-      ],
-      "nodeIds": [
-        21421
-      ],
-      "label": "1樓B區飲料自動販賣機－3號門附近",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 362,
-      "shape": [
-        {
-          "x": 101,
-          "y": 157
-        },
-        {
-          "x": 103,
-          "y": 157
-        },
-        {
-          "x": 103,
+          "x": 94,
           "y": 160
         },
         {
-          "x": 101,
+          "x": 94,
+          "y": 162
+        },
+        {
+          "x": 96,
+          "y": 162
+        },
+        {
+          "x": 96,
           "y": 160
         }
       ],
-      "nodeIds": [
-        21419
-      ],
-      "label": "1樓信義路大廳飲料自動販賣機",
-      "presetId": 8,
-      "presetType": "origin"
+      "nodeIds": [],
+      "label": "采鋐整合行銷",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
     },
     {
-      "id": 363,
+      "id": 369,
       "shape": [
         {
-          "x": 28,
+          "x": 96,
+          "y": 160
+        },
+        {
+          "x": 96,
           "y": 162
         },
         {
-          "x": 30,
+          "x": 98,
           "y": 162
         },
         {
-          "x": 30,
-          "y": 165
-        },
-        {
-          "x": 28,
-          "y": 165
+          "x": 98,
+          "y": 160
         }
       ],
-      "nodeIds": [
-        21420
-      ],
-      "label": "1樓A區飲料自動販賣機－16號門附近",
-      "presetId": 8,
-      "presetType": "origin"
+      "nodeIds": [],
+      "label": "采風國際",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
     },
     {
-      "id": 364,
+      "id": 370,
       "shape": [
         {
-          "x": 28,
-          "y": 128
+          "x": 98,
+          "y": 160
         },
         {
-          "x": 30,
-          "y": 128
+          "x": 98,
+          "y": 162
         },
         {
-          "x": 30,
-          "y": 131
+          "x": 100,
+          "y": 162
         },
         {
-          "x": 28,
-          "y": 131
+          "x": 100,
+          "y": 160
         }
       ],
-      "nodeIds": [
-        21418
-      ],
-      "label": "1樓A區飲料自動販賣機－15號門附近",
-      "presetId": 8,
-      "presetType": "origin"
+      "nodeIds": [],
+      "label": "采曜生科",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
     },
     {
-      "id": 365,
+      "id": 372,
       "shape": [
         {
-          "x": 28,
-          "y": 103
+          "x": 96,
+          "y": 164
         },
         {
-          "x": 30,
-          "y": 103
+          "x": 96,
+          "y": 166
         },
         {
-          "x": 30,
-          "y": 106
+          "x": 98,
+          "y": 166
         },
         {
-          "x": 28,
-          "y": 106
+          "x": 98,
+          "y": 164
         }
       ],
-      "nodeIds": [
-        21416
-      ],
-      "label": "1樓A區飲料自動販賣機－14號門附近",
-      "presetId": 8,
-      "presetType": "origin"
+      "nodeIds": [],
+      "label": "采鋐投控",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
     },
     {
-      "id": 366,
+      "id": 373,
       "shape": [
         {
-          "x": 77,
-          "y": 56
+          "x": 98,
+          "y": 164
         },
         {
-          "x": 79,
-          "y": 56
+          "x": 98,
+          "y": 166
         },
         {
-          "x": 79,
-          "y": 59
+          "x": 100,
+          "y": 166
         },
         {
-          "x": 77,
-          "y": 59
+          "x": 100,
+          "y": 164
         }
       ],
-      "nodeIds": [
-        21413
-      ],
-      "label": "1樓世貿廣場飲料自動販賣機 ",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 367,
-      "shape": [
-        {
-          "x": 148,
-          "y": 51
-        },
-        {
-          "x": 151,
-          "y": 51
-        },
-        {
-          "x": 151,
-          "y": 54
-        },
-        {
-          "x": 148,
-          "y": 54
-        }
-      ],
-      "nodeIds": [
-        21411
-      ],
-      "label": "1樓C區飲料自動販賣機－中央電梯旁",
-      "presetId": 8,
-      "presetType": "origin"
+      "nodeIds": [],
+      "label": "安捷創生",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
     }
   ]
 }
