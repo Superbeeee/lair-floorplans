@@ -6127,7 +6127,12 @@
       "nodeIds": [
         21443
       ],
-      "label": "TAI-ONE SPACE 智能共享辦公室"
+      "label": "TAI-ONE SPACE 智能共享辦公室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
     }
   ]
 }
