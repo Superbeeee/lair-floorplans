@@ -5123,12 +5123,14 @@
           "y": 160
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        19660
+      ],
       "label": "采鋐整合行銷",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -5151,12 +5153,14 @@
           "y": 160
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        19659
+      ],
       "label": "采風國際",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -5179,12 +5183,14 @@
           "y": 160
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        19658
+      ],
       "label": "采曜生科",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -5207,12 +5213,14 @@
           "y": 164
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        19656
+      ],
       "label": "采鋐投控",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -5235,8 +5243,40 @@
           "y": 164
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        19657
+      ],
       "label": "安捷創生",
+      "style": {
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 375,
+      "shape": [
+        {
+          "x": 96,
+          "y": 164
+        },
+        {
+          "x": 94,
+          "y": 164
+        },
+        {
+          "x": 94,
+          "y": 166
+        },
+        {
+          "x": 96,
+          "y": 166
+        }
+      ],
+      "nodeIds": [
+        19661
+      ],
+      "label": "采照策略",
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0,
