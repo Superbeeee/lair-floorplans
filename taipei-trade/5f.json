@@ -1857,7 +1857,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 95,
@@ -1880,7 +1884,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 96,
@@ -1903,7 +1911,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 97,
@@ -2959,7 +2971,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 139,
@@ -3773,7 +3789,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 177,
@@ -3875,7 +3895,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 181,
@@ -4873,7 +4897,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 221,
@@ -5383,7 +5411,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 241,

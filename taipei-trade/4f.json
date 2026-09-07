@@ -5360,7 +5360,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 227,
@@ -5912,7 +5916,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 249,

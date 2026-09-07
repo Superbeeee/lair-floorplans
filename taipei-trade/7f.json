@@ -3077,7 +3077,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 169,
@@ -4556,7 +4560,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 231,
@@ -4804,7 +4812,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空置"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 243,
