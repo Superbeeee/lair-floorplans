@@ -15,7 +15,7 @@
     }
   },
   "defaultStart": {
-    "x": 122,
+    "x": 106,
     "y": 141
   },
   "obstacles": [
@@ -1202,9 +1202,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1293,9 +1293,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -5360,7 +5360,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "格新智能（4F11）"
     },
     {
       "id": 227,
@@ -5912,7 +5912,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 249,

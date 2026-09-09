@@ -15,8 +15,8 @@
     }
   },
   "defaultStart": {
-    "x": 106,
-    "y": 185
+    "x": 99,
+    "y": 181
   },
   "obstacles": [
     {
@@ -2523,27 +2523,6 @@
       ]
     },
     {
-      "id": 341,
-      "shape": [
-        {
-          "x": 73,
-          "y": 73
-        },
-        {
-          "x": 76,
-          "y": 76
-        },
-        {
-          "x": 78,
-          "y": 74
-        },
-        {
-          "x": 75,
-          "y": 71
-        }
-      ]
-    },
-    {
       "id": 343,
       "shape": [
         {
@@ -2644,27 +2623,6 @@
       ]
     },
     {
-      "id": 347,
-      "shape": [
-        {
-          "x": 186,
-          "y": 139
-        },
-        {
-          "x": 188,
-          "y": 139
-        },
-        {
-          "x": 188,
-          "y": 155
-        },
-        {
-          "x": 186,
-          "y": 155
-        }
-      ]
-    },
-    {
       "id": 348,
       "shape": [
         {
@@ -2724,27 +2682,6 @@
         {
           "x": 28,
           "y": 139
-        }
-      ]
-    },
-    {
-      "id": 357,
-      "shape": [
-        {
-          "x": 100,
-          "y": 160
-        },
-        {
-          "x": 100,
-          "y": 167
-        },
-        {
-          "x": 101,
-          "y": 167
-        },
-        {
-          "x": 101,
-          "y": 160
         }
       ]
     }
@@ -3005,6 +2942,35 @@
           "y": 89
         }
       ]
+    },
+    {
+      "id": 374,
+      "shape": [
+        {
+          "x": 94,
+          "y": 162
+        },
+        {
+          "x": 94,
+          "y": 164
+        },
+        {
+          "x": 105,
+          "y": 164
+        },
+        {
+          "x": 105,
+          "y": 163
+        },
+        {
+          "x": 101,
+          "y": 163
+        },
+        {
+          "x": 101,
+          "y": 162
+        }
+      ]
     }
   ],
   "placements": [
@@ -3069,38 +3035,6 @@
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
-    },
-    {
-      "id": 20,
-      "shape": [
-        {
-          "x": 84,
-          "y": 55
-        },
-        {
-          "x": 84,
-          "y": 57
-        },
-        {
-          "x": 86,
-          "y": 57
-        },
-        {
-          "x": 86,
-          "y": 55
-        }
-      ],
-      "nodeIds": [
-        2814
-      ],
-      "label": "1樓西側公共設施",
-      "style": {
-        "fillColor": "#ffffff",
-        "hideLabel": true,
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      },
-      "isObstacle": false
     },
     {
       "id": 24,
@@ -3658,7 +3592,7 @@
       "nodeIds": [
         2518
       ],
-      "label": "郵局",
+      "label": "世貿郵局",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
@@ -3721,7 +3655,7 @@
       "nodeIds": [
         2524
       ],
-      "label": "A展區",
+      "label": "1樓A區展場",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -3755,7 +3689,7 @@
       "nodeIds": [
         2525
       ],
-      "label": "B展區",
+      "label": "1樓B區展場",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -3785,7 +3719,7 @@
       "nodeIds": [
         2527
       ],
-      "label": "D展區",
+      "label": "1樓D區展場",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -3819,7 +3753,7 @@
       "nodeIds": [
         2526
       ],
-      "label": "C展區",
+      "label": "1樓C區展場",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -3874,6 +3808,8 @@
         2520
       ],
       "label": "世貿廣場入口",
+      "presetId": 8,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0
@@ -3902,7 +3838,7 @@
       "nodeIds": [
         2805
       ],
-      "label": "信義路主要入口",
+      "label": "信義路主入口",
       "style": {
         "fillColor": "#ffffff",
         "hideLabel": true,
@@ -3966,7 +3902,7 @@
       "nodeIds": [
         2514
       ],
-      "label": "ATM提款機",
+      "label": "ATM－信義路入口",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -4030,7 +3966,7 @@
       "nodeIds": [
         2507
       ],
-      "label": "電梯／樓梯／廁所核心區－C區中央",
+      "label": "1樓C區中央電梯／樓梯核心",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -4127,7 +4063,7 @@
       "nodeIds": [
         2853
       ],
-      "label": "1樓 AED",
+      "label": "1樓中央大廳 AED",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -4157,7 +4093,7 @@
       "nodeIds": [
         2827
       ],
-      "label": "哺集乳室／育嬰室",
+      "label": "哺集乳室",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -4268,7 +4204,7 @@
       "nodeIds": [
         2849
       ],
-      "label": "館內公共電話",
+      "label": "公共電話－9號門 ",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4295,7 +4231,7 @@
       "nodeIds": [
         2815
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區公共設施／廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4322,7 +4258,7 @@
       "nodeIds": [
         2815
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區公共設施／廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4403,7 +4339,7 @@
       "nodeIds": [
         2815
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C／B區7號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4430,7 +4366,7 @@
       "nodeIds": [
         2815
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C／B區7號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4484,34 +4420,7 @@
       "nodeIds": [
         2815
       ],
-      "label": "1樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 308,
-      "shape": [
-        {
-          "x": 184,
-          "y": 129
-        },
-        {
-          "x": 184,
-          "y": 132
-        },
-        {
-          "x": 186,
-          "y": 132
-        },
-        {
-          "x": 186,
-          "y": 129
-        }
-      ],
-      "nodeIds": [
-        2815
-      ],
-      "label": "1樓東側公共設施",
+      "label": "1樓B區5號門旁女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4542,7 +4451,7 @@
       "nodeIds": [
         2815
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓B區4號門旁男廁與無障礙廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4596,7 +4505,7 @@
       "nodeIds": [
         2849
       ],
-      "label": "館內公共電話",
+      "label": "公共電話－3號門",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4623,7 +4532,7 @@
       "nodeIds": [
         2815
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓B區3號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4650,7 +4559,7 @@
       "nodeIds": [
         2814
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓B區3號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4709,33 +4618,6 @@
       "presetType": "origin"
     },
     {
-      "id": 319,
-      "shape": [
-        {
-          "x": 139,
-          "y": 189
-        },
-        {
-          "x": 139,
-          "y": 186
-        },
-        {
-          "x": 142,
-          "y": 186
-        },
-        {
-          "x": 142,
-          "y": 189
-        }
-      ],
-      "nodeIds": [
-        2851
-      ],
-      "label": "寄物櫃／置物櫃",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 321,
       "shape": [
         {
@@ -4759,33 +4641,6 @@
         2850
       ],
       "label": "緊急逃生出口",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 322,
-      "shape": [
-        {
-          "x": 75,
-          "y": 189
-        },
-        {
-          "x": 75,
-          "y": 186
-        },
-        {
-          "x": 72,
-          "y": 186
-        },
-        {
-          "x": 72,
-          "y": 189
-        }
-      ],
-      "nodeIds": [
-        2851
-      ],
-      "label": "寄物櫃／置物櫃",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4843,34 +4698,7 @@
       "nodeIds": [
         2814
       ],
-      "label": "1樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 327,
-      "shape": [
-        {
-          "x": 30,
-          "y": 167
-        },
-        {
-          "x": 28,
-          "y": 167
-        },
-        {
-          "x": 28,
-          "y": 165
-        },
-        {
-          "x": 30,
-          "y": 165
-        }
-      ],
-      "nodeIds": [
-        2814
-      ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區16號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4897,7 +4725,7 @@
       "nodeIds": [
         2814
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區16號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4924,7 +4752,7 @@
       "nodeIds": [
         2849
       ],
-      "label": "館內公共電話",
+      "label": "公共電話－16號門",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4978,7 +4806,7 @@
       "nodeIds": [
         2814
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區15號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5005,7 +4833,7 @@
       "nodeIds": [
         2814
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓A區15號門旁男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5059,7 +4887,7 @@
       "nodeIds": [
         2814
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓世貿廣場廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5090,7 +4918,7 @@
       "nodeIds": [
         2814
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓世貿廣場廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5122,33 +4950,6 @@
       "presetType": "origin"
     },
     {
-      "id": 342,
-      "shape": [
-        {
-          "x": 82,
-          "y": 80
-        },
-        {
-          "x": 82,
-          "y": 82
-        },
-        {
-          "x": 85,
-          "y": 82
-        },
-        {
-          "x": 85,
-          "y": 80
-        }
-      ],
-      "nodeIds": [
-        2509
-      ],
-      "label": "電扶梯－A區與D區交界",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 349,
       "shape": [
         {
@@ -5171,34 +4972,7 @@
       "nodeIds": [
         2815
       ],
-      "label": "1樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 350,
-      "shape": [
-        {
-          "x": 184,
-          "y": 21
-        },
-        {
-          "x": 184,
-          "y": 24
-        },
-        {
-          "x": 186,
-          "y": 24
-        },
-        {
-          "x": 186,
-          "y": 21
-        }
-      ],
-      "nodeIds": [
-        2815
-      ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區公共設施／廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5225,7 +4999,7 @@
       "nodeIds": [
         2815
       ],
-      "label": "1樓東側公共設施",
+      "label": "1樓C區公共設施／廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5252,7 +5026,7 @@
       "nodeIds": [
         2814
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓中央大廳廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5283,277 +5057,295 @@
       "nodeIds": [
         2814
       ],
-      "label": "1樓西側公共設施",
+      "label": "1樓中央大廳廁所",
       "presetId": 8,
       "presetType": "origin"
     },
     {
-      "id": 358,
+      "id": 368,
       "shape": [
         {
-          "x": 186,
-          "y": 57
-        },
-        {
-          "x": 183,
-          "y": 57
-        },
-        {
-          "x": 183,
-          "y": 60
-        },
-        {
-          "x": 186,
-          "y": 60
-        }
-      ],
-      "nodeIds": [
-        2815
-      ],
-      "label": "1樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 359,
-      "shape": [
-        {
-          "x": 184,
-          "y": 91
-        },
-        {
-          "x": 187,
-          "y": 91
-        },
-        {
-          "x": 187,
-          "y": 94
-        },
-        {
-          "x": 184,
-          "y": 94
-        }
-      ],
-      "nodeIds": [
-        2815
-      ],
-      "label": "1樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 360,
-      "shape": [
-        {
-          "x": 184,
-          "y": 126
-        },
-        {
-          "x": 186,
-          "y": 126
-        },
-        {
-          "x": 186,
-          "y": 129
-        },
-        {
-          "x": 184,
-          "y": 129
-        }
-      ],
-      "nodeIds": [
-        2815
-      ],
-      "label": "1樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 361,
-      "shape": [
-        {
-          "x": 184,
-          "y": 163
-        },
-        {
-          "x": 186,
-          "y": 163
-        },
-        {
-          "x": 186,
-          "y": 166
-        },
-        {
-          "x": 184,
-          "y": 166
-        }
-      ],
-      "nodeIds": [
-        2815
-      ],
-      "label": "1樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 362,
-      "shape": [
-        {
-          "x": 101,
-          "y": 157
-        },
-        {
-          "x": 103,
-          "y": 157
-        },
-        {
-          "x": 103,
+          "x": 94,
           "y": 160
         },
         {
-          "x": 101,
+          "x": 94,
+          "y": 162
+        },
+        {
+          "x": 96,
+          "y": 162
+        },
+        {
+          "x": 96,
           "y": 160
         }
       ],
       "nodeIds": [
-        2814
+        2489
       ],
-      "label": "1樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
+      "label": "采鋐整合行銷",
+      "style": {
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
-      "id": 363,
+      "id": 369,
       "shape": [
         {
-          "x": 28,
+          "x": 96,
+          "y": 160
+        },
+        {
+          "x": 96,
           "y": 162
         },
         {
-          "x": 30,
+          "x": 98,
           "y": 162
         },
         {
-          "x": 30,
-          "y": 165
-        },
-        {
-          "x": 28,
-          "y": 165
+          "x": 98,
+          "y": 160
         }
       ],
       "nodeIds": [
-        2814
+        2490
       ],
-      "label": "1樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
+      "label": "采風國際",
+      "style": {
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
-      "id": 364,
+      "id": 370,
       "shape": [
         {
-          "x": 28,
-          "y": 128
+          "x": 98,
+          "y": 160
         },
         {
-          "x": 30,
-          "y": 128
+          "x": 98,
+          "y": 162
         },
         {
-          "x": 30,
-          "y": 131
+          "x": 100,
+          "y": 162
         },
         {
-          "x": 28,
-          "y": 131
+          "x": 100,
+          "y": 160
         }
       ],
       "nodeIds": [
-        2814
+        2491
       ],
-      "label": "1樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
+      "label": "采曜生科",
+      "style": {
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
-      "id": 365,
+      "id": 372,
       "shape": [
         {
-          "x": 28,
-          "y": 103
+          "x": 96,
+          "y": 164
         },
         {
-          "x": 30,
-          "y": 103
+          "x": 96,
+          "y": 166
         },
         {
-          "x": 30,
-          "y": 106
+          "x": 98,
+          "y": 166
         },
         {
-          "x": 28,
-          "y": 106
+          "x": 98,
+          "y": 164
         }
       ],
       "nodeIds": [
-        2814
+        2493
       ],
-      "label": "1樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
+      "label": "采鋐投控",
+      "style": {
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
-      "id": 366,
+      "id": 373,
       "shape": [
         {
-          "x": 77,
-          "y": 56
+          "x": 98,
+          "y": 164
+        },
+        {
+          "x": 98,
+          "y": 166
+        },
+        {
+          "x": 100,
+          "y": 166
+        },
+        {
+          "x": 100,
+          "y": 164
+        }
+      ],
+      "nodeIds": [
+        2492
+      ],
+      "label": "安捷創生",
+      "style": {
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 375,
+      "shape": [
+        {
+          "x": 96,
+          "y": 164
+        },
+        {
+          "x": 94,
+          "y": 164
+        },
+        {
+          "x": 94,
+          "y": 166
+        },
+        {
+          "x": 96,
+          "y": 166
+        }
+      ],
+      "nodeIds": [
+        2488
+      ],
+      "label": "采照策略",
+      "style": {
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 376,
+      "shape": [
+        {
+          "x": 186,
+          "y": 139
+        },
+        {
+          "x": 188,
+          "y": 139
+        },
+        {
+          "x": 188,
+          "y": 155
+        },
+        {
+          "x": 186,
+          "y": 155
+        }
+      ],
+      "nodeIds": [
+        2807
+      ],
+      "label": "市府路側入口",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
+    },
+    {
+      "id": 377,
+      "shape": [
+        {
+          "x": 75,
+          "y": 71
+        },
+        {
+          "x": 78,
+          "y": 74
+        },
+        {
+          "x": 76,
+          "y": 76
+        },
+        {
+          "x": 73,
+          "y": 73
+        }
+      ],
+      "nodeIds": [],
+      "label": "世貿廣場入口上2樓手扶梯",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
+    },
+    {
+      "id": 378,
+      "shape": [
+        {
+          "x": 78,
+          "y": 74
         },
         {
           "x": 79,
-          "y": 56
+          "y": 73
+        },
+        {
+          "x": 80,
+          "y": 74
         },
         {
           "x": 79,
-          "y": 59
-        },
-        {
-          "x": 77,
-          "y": 59
+          "y": 75
         }
       ],
-      "nodeIds": [
-        2814
-      ],
-      "label": "1樓西側公共設施",
+      "nodeIds": [],
+      "label": "1樓西側 AED",
       "presetId": 8,
       "presetType": "origin"
     },
     {
-      "id": 367,
+      "id": 379,
       "shape": [
         {
-          "x": 148,
-          "y": 51
+          "x": 80,
+          "y": 74
         },
         {
-          "x": 151,
-          "y": 51
+          "x": 79,
+          "y": 75
         },
         {
-          "x": 151,
-          "y": 54
+          "x": 80,
+          "y": 76
         },
         {
-          "x": 148,
-          "y": 54
+          "x": 81,
+          "y": 75
         }
       ],
-      "nodeIds": [
-        2815
-      ],
-      "label": "1樓東側公共設施",
+      "nodeIds": [],
+      "label": "ATM－世貿廣場入口",
       "presetId": 8,
       "presetType": "origin"
     }

@@ -15,8 +15,8 @@
     }
   },
   "defaultStart": {
-    "x": 106,
-    "y": 177
+    "x": 113,
+    "y": 137
   },
   "obstacles": [
     {
@@ -1057,6 +1057,23 @@
           "y": 136
         }
       ]
+    },
+    {
+      "id": 314,
+      "shape": [
+        {
+          "x": 47,
+          "y": 69
+        },
+        {
+          "x": 47,
+          "y": 75
+        },
+        {
+          "x": 41,
+          "y": 75
+        }
+      ]
     }
   ],
   "passages": [
@@ -1527,7 +1544,7 @@
       "nodeIds": [
         2849
       ],
-      "label": "館內公共電話",
+      "label": "2樓餐飲區旁公共電話",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -1558,7 +1575,7 @@
       "nodeIds": [
         2849
       ],
-      "label": "館內公共電話",
+      "label": "2樓餐飲區旁公共電話",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -1589,7 +1606,7 @@
       "nodeIds": [
         2849
       ],
-      "label": "館內公共電話",
+      "label": "2樓會議室廊廳西側公共電話",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -1620,7 +1637,7 @@
       "nodeIds": [
         2849
       ],
-      "label": "館內公共電話",
+      "label": "2樓會議室廊廳東側公共電話",
       "presetId": 8,
       "presetType": "origin",
       "style": {
@@ -3692,7 +3709,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -3819,7 +3836,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -3996,7 +4013,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -4023,7 +4040,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -4050,7 +4067,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -4077,7 +4094,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -4104,7 +4121,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -4131,7 +4148,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -4158,7 +4175,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -4185,7 +4202,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -4212,7 +4229,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -4552,56 +4569,6 @@
       "label": "喬盟國際台灣分公司"
     },
     {
-      "id": 220,
-      "shape": [
-        {
-          "x": 141,
-          "y": 165
-        },
-        {
-          "x": 141,
-          "y": 169
-        },
-        {
-          "x": 147,
-          "y": 169
-        },
-        {
-          "x": 147,
-          "y": 165
-        }
-      ],
-      "nodeIds": [
-        2486
-      ],
-      "label": "資誠企業管理顧問"
-    },
-    {
-      "id": 221,
-      "shape": [
-        {
-          "x": 141,
-          "y": 164
-        },
-        {
-          "x": 141,
-          "y": 160
-        },
-        {
-          "x": 147,
-          "y": 160
-        },
-        {
-          "x": 147,
-          "y": 164
-        }
-      ],
-      "nodeIds": [
-        2487
-      ],
-      "label": "漢昕科技"
-    },
-    {
       "id": 230,
       "shape": [
         {
@@ -4697,8 +4664,10 @@
           "y": 67
         }
       ],
-      "nodeIds": [],
-      "label": "國際企業人才培訓中心辦公室",
+      "nodeIds": [
+        2486
+      ],
+      "label": "資誠企業管理顧問",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#ffffff",
@@ -4887,7 +4856,7 @@
       "nodeIds": [
         2829
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓TAI-ONE南側男廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4941,7 +4910,7 @@
       "nodeIds": [
         2829
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓台北101空橋南側女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -4995,7 +4964,7 @@
       "nodeIds": [
         2829
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓TAI-ONE中段男廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5022,7 +4991,7 @@
       "nodeIds": [
         2829
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓TAI-ONE北側女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5107,34 +5076,7 @@
       "nodeIds": [
         2829
       ],
-      "label": "2樓東側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 248,
-      "shape": [
-        {
-          "x": 167,
-          "y": 52
-        },
-        {
-          "x": 167,
-          "y": 46
-        },
-        {
-          "x": 172,
-          "y": 46
-        },
-        {
-          "x": 172,
-          "y": 52
-        }
-      ],
-      "nodeIds": [
-        2829
-      ],
-      "label": "2樓東側公共設施",
+      "label": "2樓展覽處辦公室南側男女廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5192,7 +5134,7 @@
       "nodeIds": [
         2829
       ],
-      "label": "2樓東側公共設施",
+      "label": "2樓東北角女廁 ",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5258,34 +5200,7 @@
       "nodeIds": [
         2828
       ],
-      "label": "2樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 253,
-      "shape": [
-        {
-          "x": 93,
-          "y": 34
-        },
-        {
-          "x": 88,
-          "y": 34
-        },
-        {
-          "x": 88,
-          "y": 39
-        },
-        {
-          "x": 93,
-          "y": 39
-        }
-      ],
-      "nodeIds": [
-        2828
-      ],
-      "label": "2樓西側公共設施",
+      "label": "2樓C區北側女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5330,33 +5245,6 @@
       }
     },
     {
-      "id": 255,
-      "shape": [
-        {
-          "x": 49,
-          "y": 75
-        },
-        {
-          "x": 49,
-          "y": 80
-        },
-        {
-          "x": 54,
-          "y": 80
-        },
-        {
-          "x": 54,
-          "y": 75
-        }
-      ],
-      "nodeIds": [
-        2828
-      ],
-      "label": "2樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 256,
       "shape": [
         {
@@ -5379,7 +5267,7 @@
       "nodeIds": [
         2828
       ],
-      "label": "2樓西側公共設施",
+      "label": "2樓A／B區西側男廁與無障礙廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5441,34 +5329,7 @@
       "nodeIds": [
         2828
       ],
-      "label": "2樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 259,
-      "shape": [
-        {
-          "x": 41,
-          "y": 122
-        },
-        {
-          "x": 41,
-          "y": 127
-        },
-        {
-          "x": 43,
-          "y": 127
-        },
-        {
-          "x": 43,
-          "y": 122
-        }
-      ],
-      "nodeIds": [
-        2828
-      ],
-      "label": "2樓西側公共設施",
+      "label": "2樓B區西側女廁",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5534,7 +5395,7 @@
       "nodeIds": [
         2828
       ],
-      "label": "2樓西側公共設施",
+      "label": "2樓A／B區西側男廁與無障礙廁所",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5686,37 +5547,6 @@
       "presetType": "origin"
     },
     {
-      "id": 282,
-      "shape": [
-        {
-          "x": 59,
-          "y": 176
-        },
-        {
-          "x": 59,
-          "y": 177
-        },
-        {
-          "x": 59,
-          "y": 178
-        },
-        {
-          "x": 64,
-          "y": 178
-        },
-        {
-          "x": 64,
-          "y": 176
-        }
-      ],
-      "nodeIds": [
-        2828
-      ],
-      "label": "2樓西側公共設施",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 283,
       "shape": [
         {
@@ -5739,7 +5569,7 @@
       "nodeIds": [
         2828
       ],
-      "label": "2樓西側公共設施",
+      "label": "2樓A區南側廁所 ",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5809,30 +5639,7 @@
       "nodeIds": [
         2830
       ],
-      "label": "2樓中央電梯與手扶梯",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 296,
-      "shape": [
-        {
-          "x": 47,
-          "y": 69
-        },
-        {
-          "x": 47,
-          "y": 75
-        },
-        {
-          "x": 41,
-          "y": 75
-        }
-      ],
-      "nodeIds": [
-        2827
-      ],
-      "label": "哺集乳室／育嬰室",
+      "label": "2樓H區東側電梯核心",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5864,33 +5671,6 @@
       "presetType": "origin"
     },
     {
-      "id": 300,
-      "shape": [
-        {
-          "x": 152,
-          "y": 107
-        },
-        {
-          "x": 152,
-          "y": 114
-        },
-        {
-          "x": 158,
-          "y": 114
-        },
-        {
-          "x": 158,
-          "y": 107
-        }
-      ],
-      "nodeIds": [
-        2817
-      ],
-      "label": "2樓H區展場",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 301,
       "shape": [
         {
@@ -5913,7 +5693,11 @@
       "nodeIds": [
         2821
       ],
-      "label": "第三會議室"
+      "label": "第三會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 302,
@@ -5938,7 +5722,11 @@
       "nodeIds": [
         2822
       ],
-      "label": "第四會議室"
+      "label": "第四會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 303,
@@ -5963,7 +5751,11 @@
       "nodeIds": [
         2823
       ],
-      "label": "第五會議室"
+      "label": "第五會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 304,
@@ -5988,7 +5780,11 @@
       "nodeIds": [
         2820
       ],
-      "label": "第二會議室"
+      "label": "第二會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 305,
@@ -6013,7 +5809,11 @@
       "nodeIds": [
         2819
       ],
-      "label": "A+會議室"
+      "label": "A+會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 308,
@@ -6038,7 +5838,184 @@
       "nodeIds": [
         2818
       ],
-      "label": "第一會議室"
+      "label": "第一會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 312,
+      "shape": [
+        {
+          "x": 167,
+          "y": 86
+        },
+        {
+          "x": 167,
+          "y": 89
+        },
+        {
+          "x": 170,
+          "y": 89
+        },
+        {
+          "x": 170,
+          "y": 92
+        },
+        {
+          "x": 165,
+          "y": 92
+        },
+        {
+          "x": 165,
+          "y": 86
+        }
+      ],
+      "nodeIds": [
+        2487
+      ],
+      "label": "漢昕科技"
+    },
+    {
+      "id": 313,
+      "shape": [
+        {
+          "x": 165,
+          "y": 86
+        },
+        {
+          "x": 165,
+          "y": 92
+        },
+        {
+          "x": 170,
+          "y": 92
+        },
+        {
+          "x": 170,
+          "y": 97
+        },
+        {
+          "x": 167,
+          "y": 97
+        },
+        {
+          "x": 167,
+          "y": 102
+        },
+        {
+          "x": 170,
+          "y": 102
+        },
+        {
+          "x": 170,
+          "y": 120
+        },
+        {
+          "x": 167,
+          "y": 120
+        },
+        {
+          "x": 167,
+          "y": 125
+        },
+        {
+          "x": 170,
+          "y": 125
+        },
+        {
+          "x": 170,
+          "y": 132
+        },
+        {
+          "x": 167,
+          "y": 132
+        },
+        {
+          "x": 167,
+          "y": 137
+        },
+        {
+          "x": 170,
+          "y": 137
+        },
+        {
+          "x": 170,
+          "y": 154
+        },
+        {
+          "x": 167,
+          "y": 154
+        },
+        {
+          "x": 167,
+          "y": 159
+        },
+        {
+          "x": 170,
+          "y": 159
+        },
+        {
+          "x": 170,
+          "y": 164
+        },
+        {
+          "x": 167,
+          "y": 164
+        },
+        {
+          "x": 167,
+          "y": 167
+        },
+        {
+          "x": 164,
+          "y": 167
+        },
+        {
+          "x": 164,
+          "y": 176
+        },
+        {
+          "x": 148,
+          "y": 176
+        },
+        {
+          "x": 148,
+          "y": 172
+        },
+        {
+          "x": 143,
+          "y": 172
+        },
+        {
+          "x": 143,
+          "y": 176
+        },
+        {
+          "x": 141,
+          "y": 176
+        },
+        {
+          "x": 141,
+          "y": 172
+        },
+        {
+          "x": 138,
+          "y": 172
+        },
+        {
+          "x": 138,
+          "y": 86
+        }
+      ],
+      "nodeIds": [],
+      "label": "TAI-ONE SPACE 智能共享辦公室",
+      "style": {
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     }
   ]
 }

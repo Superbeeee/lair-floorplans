@@ -1234,9 +1234,9 @@
       "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1265,9 +1265,9 @@
       "label": "館內樓梯",
       "style": {
         "fillColor": "#ffffff",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1295,10 +1295,10 @@
       ],
       "label": "館內樓梯",
       "style": {
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0,
+        "fillColor": "#ffffff",
         "hideLabel": true,
-        "fillColor": "#ffffff"
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
       }
     },
     {
@@ -1326,9 +1326,9 @@
       ],
       "label": "館內樓梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1356,9 +1356,9 @@
       ],
       "label": "5樓中央電梯與手扶梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1857,7 +1857,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 95,
@@ -1880,7 +1884,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 96,
@@ -1903,7 +1911,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 97,
@@ -2959,7 +2971,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 139,
@@ -3773,7 +3789,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "可倫國際"
     },
     {
       "id": 177,
@@ -3875,7 +3891,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "鋐緯實業"
     },
     {
       "id": 181,
@@ -4873,7 +4889,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 221,
@@ -5383,7 +5403,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 241,

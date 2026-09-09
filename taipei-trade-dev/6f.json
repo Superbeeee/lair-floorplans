@@ -3000,7 +3000,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "空"
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 124,

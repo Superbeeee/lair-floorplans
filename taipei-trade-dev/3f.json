@@ -16,7 +16,7 @@
   },
   "defaultStart": {
     "x": 106,
-    "y": 174
+    "y": 138
   },
   "obstacles": [
     {
@@ -1618,10 +1618,12 @@
           "y": 168
         }
       ],
-      "nodeIds": [
-        2541
-      ],
-      "label": "龍鼎科技"
+      "nodeIds": [],
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 78,
@@ -2494,7 +2496,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -2746,11 +2748,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "卡迪雅"
     },
     {
       "id": 127,
@@ -3302,7 +3300,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -3433,7 +3431,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -3539,7 +3537,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -5661,7 +5659,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -5892,7 +5890,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -5969,11 +5967,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "耐用商行"
     },
     {
       "id": 258,
@@ -5996,11 +5990,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "label": "嗨科技"
     },
     {
       "id": 259,
@@ -6231,7 +6221,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -7303,7 +7293,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "空",
+      "label": "空置",
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9"
@@ -8759,12 +8749,10 @@
           "y": 26
         }
       ],
-      "nodeIds": [],
-      "label": "空",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "nodeIds": [
+        2974
+      ],
+      "label": "勇成貿易"
     },
     {
       "id": 374,
