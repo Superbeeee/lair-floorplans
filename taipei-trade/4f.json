@@ -15,7 +15,7 @@
     }
   },
   "defaultStart": {
-    "x": 122,
+    "x": 106,
     "y": 141
   },
   "obstacles": [
@@ -1202,9 +1202,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1293,9 +1293,9 @@
       "style": {
         "fillColor": "#ffffff",
         "strokeColor": "#9f9fa9",
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
