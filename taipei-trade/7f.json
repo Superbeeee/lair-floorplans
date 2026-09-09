@@ -1194,9 +1194,9 @@
       ],
       "label": "館內樓梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1224,9 +1224,9 @@
       ],
       "label": "館內樓梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1254,9 +1254,9 @@
       ],
       "label": "館內樓梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1284,9 +1284,9 @@
       ],
       "label": "館內樓梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1314,9 +1314,9 @@
       ],
       "label": "館內樓梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1352,9 +1352,9 @@
       ],
       "label": "館內樓梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1386,9 +1386,9 @@
       ],
       "label": "7樓中央電梯與手扶梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -3076,12 +3076,10 @@
           "y": 99
         }
       ],
-      "nodeIds": [],
-      "label": "空置",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "nodeIds": [
+        21603
+      ],
+      "label": "台灣日紳寰宇（7D21）"
     },
     {
       "id": 169,
@@ -4559,12 +4557,10 @@
           "y": 140
         }
       ],
-      "nodeIds": [],
-      "label": "空置",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "nodeIds": [
+        21602
+      ],
+      "label": "奧克拉荷馬州商務辦事處"
     },
     {
       "id": 231,

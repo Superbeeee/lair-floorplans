@@ -2745,12 +2745,10 @@
           "y": 109
         }
       ],
-      "nodeIds": [],
-      "label": "空置",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "nodeIds": [
+        21595
+      ],
+      "label": "卡迪雅"
     },
     {
       "id": 127,
@@ -5968,12 +5966,10 @@
           "y": 89
         }
       ],
-      "nodeIds": [],
-      "label": "空置",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "nodeIds": [
+        21598
+      ],
+      "label": "耐用商行"
     },
     {
       "id": 258,
@@ -5995,12 +5991,10 @@
           "y": 89
         }
       ],
-      "nodeIds": [],
-      "label": "空置",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "nodeIds": [
+        21597
+      ],
+      "label": "嗨科技"
     },
     {
       "id": 259,
@@ -8759,12 +8753,10 @@
           "y": 26
         }
       ],
-      "nodeIds": [],
-      "label": "空置",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "nodeIds": [
+        21596
+      ],
+      "label": "勇成貿易"
     },
     {
       "id": 374,

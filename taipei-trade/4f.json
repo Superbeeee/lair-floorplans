@@ -5359,12 +5359,10 @@
           "y": 143
         }
       ],
-      "nodeIds": [],
-      "label": "空置",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
+      "nodeIds": [
+        21599
+      ],
+      "label": "格新智能（4F11）"
     },
     {
       "id": 227,
