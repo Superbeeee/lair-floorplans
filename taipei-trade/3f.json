@@ -1618,10 +1618,12 @@
           "y": 168
         }
       ],
-      "nodeIds": [
-        20026
-      ],
-      "label": "龍鼎科技"
+      "nodeIds": [],
+      "label": "空置",
+      "style": {
+        "fillColor": "#ffffff",
+        "strokeColor": "#9f9fa9"
+      }
     },
     {
       "id": 78,
