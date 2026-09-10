@@ -1057,6 +1057,27 @@
           "y": 36
         }
       ]
+    },
+    {
+      "id": 434,
+      "shape": [
+        {
+          "x": 87,
+          "y": 133
+        },
+        {
+          "x": 87,
+          "y": 136
+        },
+        {
+          "x": 82,
+          "y": 136
+        },
+        {
+          "x": 82,
+          "y": 133
+        }
+      ]
     }
   ],
   "passages": [
@@ -1318,103 +1339,6 @@
         "hideLabel": true,
         "fillColorAlpha": 0,
         "strokeAlpha": 0
-      }
-    },
-    {
-      "id": 37,
-      "shape": [
-        {
-          "x": 92,
-          "y": 65
-        },
-        {
-          "x": 92,
-          "y": 70
-        },
-        {
-          "x": 97,
-          "y": 70
-        },
-        {
-          "x": 97,
-          "y": 65
-        }
-      ],
-      "nodeIds": [
-        2849
-      ],
-      "label": "館內公共電話",
-      "presetId": 8,
-      "presetType": "origin",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
-    },
-    {
-      "id": 38,
-      "shape": [
-        {
-          "x": 116,
-          "y": 65
-        },
-        {
-          "x": 116,
-          "y": 70
-        },
-        {
-          "x": 121,
-          "y": 70
-        },
-        {
-          "x": 121,
-          "y": 65
-        }
-      ],
-      "nodeIds": [
-        2849
-      ],
-      "label": "館內公共電話",
-      "presetId": 8,
-      "presetType": "origin",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
-      }
-    },
-    {
-      "id": 40,
-      "shape": [
-        {
-          "x": 82,
-          "y": 133
-        },
-        {
-          "x": 82,
-          "y": 138
-        },
-        {
-          "x": 86,
-          "y": 138
-        },
-        {
-          "x": 87,
-          "y": 138
-        },
-        {
-          "x": 87,
-          "y": 133
-        }
-      ],
-      "nodeIds": [
-        2849
-      ],
-      "label": "館內公共電話",
-      "presetId": 8,
-      "presetType": "origin",
-      "style": {
-        "fillColor": "#ffffff",
-        "strokeColor": "#9f9fa9"
       }
     },
     {

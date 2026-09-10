@@ -4182,33 +4182,6 @@
       "presetType": "origin"
     },
     {
-      "id": 293,
-      "shape": [
-        {
-          "x": 186,
-          "y": 48
-        },
-        {
-          "x": 183,
-          "y": 48
-        },
-        {
-          "x": 183,
-          "y": 51
-        },
-        {
-          "x": 186,
-          "y": 51
-        }
-      ],
-      "nodeIds": [
-        21431
-      ],
-      "label": "公共電話－9號門 ",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 294,
       "shape": [
         {
@@ -4483,33 +4456,6 @@
       "presetType": "origin"
     },
     {
-      "id": 312,
-      "shape": [
-        {
-          "x": 184,
-          "y": 155
-        },
-        {
-          "x": 184,
-          "y": 158
-        },
-        {
-          "x": 186,
-          "y": 158
-        },
-        {
-          "x": 186,
-          "y": 155
-        }
-      ],
-      "nodeIds": [
-        21430
-      ],
-      "label": "公共電話－3號門",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
       "id": 313,
       "shape": [
         {
@@ -4726,33 +4672,6 @@
         21453
       ],
       "label": "1樓A區16號門旁男女廁所",
-      "presetId": 8,
-      "presetType": "origin"
-    },
-    {
-      "id": 329,
-      "shape": [
-        {
-          "x": 28,
-          "y": 158
-        },
-        {
-          "x": 28,
-          "y": 155
-        },
-        {
-          "x": 30,
-          "y": 155
-        },
-        {
-          "x": 30,
-          "y": 158
-        }
-      ],
-      "nodeIds": [
-        21432
-      ],
-      "label": "公共電話－16號門",
       "presetId": 8,
       "presetType": "origin"
     },
@@ -5266,9 +5185,9 @@
       ],
       "label": "市府路側入口",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -5296,9 +5215,9 @@
       ],
       "label": "世貿廣場入口上2樓手扶梯",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
