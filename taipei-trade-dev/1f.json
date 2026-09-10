@@ -5210,7 +5210,9 @@
           "y": 73
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        3533
+      ],
       "label": "世貿廣場入口上2樓手扶梯",
       "style": {
         "hideLabel": true,
@@ -5238,7 +5240,9 @@
           "y": 75
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        3534
+      ],
       "label": "1樓西側 AED",
       "presetId": 8,
       "presetType": "origin"
@@ -5263,7 +5267,9 @@
           "y": 75
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        3535
+      ],
       "label": "ATM－世貿廣場入口",
       "presetId": 8,
       "presetType": "origin"
