@@ -7357,6 +7357,33 @@
       "label": "5樓中央電梯與手扶梯",
       "presetId": 8,
       "presetType": "origin"
+    },
+    {
+      "id": 335,
+      "shape": [
+        {
+          "x": 150,
+          "y": 55
+        },
+        {
+          "x": 148,
+          "y": 55
+        },
+        {
+          "x": 148,
+          "y": 57
+        },
+        {
+          "x": 150,
+          "y": 57
+        }
+      ],
+      "nodeIds": [
+        21662
+      ],
+      "label": "5樓D區 AED",
+      "presetId": 8,
+      "presetType": "origin"
     }
   ]
 }

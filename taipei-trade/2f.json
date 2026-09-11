@@ -5894,6 +5894,33 @@
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       }
+    },
+    {
+      "id": 315,
+      "shape": [
+        {
+          "x": 64,
+          "y": 68
+        },
+        {
+          "x": 62,
+          "y": 68
+        },
+        {
+          "x": 62,
+          "y": 66
+        },
+        {
+          "x": 64,
+          "y": 66
+        }
+      ],
+      "nodeIds": [
+        21660
+      ],
+      "label": "哺集乳室",
+      "presetId": 8,
+      "presetType": "origin"
     }
   ]
 }
