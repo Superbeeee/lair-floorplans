@@ -1206,7 +1206,7 @@
         21810
       ],
       "label": "403會議室",
-      "presetId": 23,
+      "presetId": 13,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1238,7 +1238,7 @@
         21811
       ],
       "label": "404會議室",
-      "presetId": 23,
+      "presetId": 13,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1270,7 +1270,7 @@
         21809
       ],
       "label": "402會議室",
-      "presetId": 23,
+      "presetId": 13,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1302,7 +1302,7 @@
         21809
       ],
       "label": "402會議室",
-      "presetId": 23,
+      "presetId": 13,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1334,7 +1334,7 @@
         21809
       ],
       "label": "402會議室",
-      "presetId": 23,
+      "presetId": 13,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1366,7 +1366,7 @@
         21808
       ],
       "label": "401會議室",
-      "presetId": 23,
+      "presetId": 13,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1458,7 +1458,7 @@
         21782
       ],
       "label": "西南側手扶梯",
-      "presetId": 20,
+      "presetId": 10,
       "presetType": "origin",
       "style": {
         "hideLabel": true,
@@ -1576,7 +1576,7 @@
         21797
       ],
       "label": "第4貴賓室",
-      "presetId": 23,
+      "presetId": 13,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1644,7 +1644,7 @@
         21798
       ],
       "label": "貴賓簡報室",
-      "presetId": 24,
+      "presetId": 14,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1676,7 +1676,7 @@
         21787
       ],
       "label": "男回教祈禱室",
-      "presetId": 21,
+      "presetId": 11,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1708,7 +1708,7 @@
         21786
       ],
       "label": "女回教祈禱室",
-      "presetId": 22,
+      "presetId": 12,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1769,7 +1769,7 @@
         21781
       ],
       "label": "西北側手扶梯",
-      "presetId": 20,
+      "presetId": 10,
       "presetType": "origin",
       "style": {
         "hideLabel": true,
@@ -1801,7 +1801,7 @@
         21785
       ],
       "label": "急救設備(AED)",
-      "presetId": 19,
+      "presetId": 9,
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
@@ -1923,7 +1923,7 @@
         21791
       ],
       "label": "L區展場內北側手扶梯",
-      "presetId": 20,
+      "presetId": 10,
       "presetType": "origin",
       "style": {
         "hideLabel": true,
@@ -2050,7 +2050,7 @@
         21792
       ],
       "label": "N區展場內南側手扶梯",
-      "presetId": 20,
+      "presetId": 10,
       "presetType": "origin",
       "style": {
         "hideLabel": true,
