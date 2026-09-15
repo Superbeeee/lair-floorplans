@@ -1206,9 +1206,12 @@
         21810
       ],
       "label": "403會議室",
+      "presetId": 23,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1235,9 +1238,12 @@
         21811
       ],
       "label": "404會議室",
+      "presetId": 23,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1264,9 +1270,12 @@
         21809
       ],
       "label": "402會議室",
+      "presetId": 23,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1293,9 +1302,12 @@
         21809
       ],
       "label": "402會議室",
+      "presetId": 23,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1322,9 +1334,12 @@
         21809
       ],
       "label": "402會議室",
+      "presetId": 23,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1351,9 +1366,12 @@
         21808
       ],
       "label": "401會議室",
+      "presetId": 23,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1558,9 +1576,12 @@
         21797
       ],
       "label": "第4貴賓室",
+      "presetId": 23,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1623,9 +1644,12 @@
         21798
       ],
       "label": "貴賓簡報室",
+      "presetId": 24,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1652,9 +1676,12 @@
         21787
       ],
       "label": "男回教祈禱室",
+      "presetId": 21,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1681,9 +1708,12 @@
         21786
       ],
       "label": "女回教祈禱室",
+      "presetId": 22,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1775,7 +1805,8 @@
       "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
