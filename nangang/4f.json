@@ -1201,7 +1201,11 @@
       "nodeIds": [
         21810
       ],
-      "label": "403會議室"
+      "label": "403會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 32,
@@ -1226,7 +1230,11 @@
       "nodeIds": [
         21811
       ],
-      "label": "404會議室"
+      "label": "404會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 33,
@@ -1251,7 +1259,11 @@
       "nodeIds": [
         21809
       ],
-      "label": "402會議室"
+      "label": "402會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 35,
@@ -1276,7 +1288,11 @@
       "nodeIds": [
         21809
       ],
-      "label": "402會議室"
+      "label": "402會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 36,
@@ -1301,7 +1317,11 @@
       "nodeIds": [
         21809
       ],
-      "label": "402會議室"
+      "label": "402會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 37,
@@ -1326,7 +1346,11 @@
       "nodeIds": [
         21808
       ],
-      "label": "401會議室"
+      "label": "401會議室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 40,
@@ -1355,9 +1379,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1383,9 +1407,9 @@
       "nodeIds": [],
       "label": "Placement 44",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1415,9 +1439,9 @@
       "presetId": 20,
       "presetType": "origin",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1467,7 +1491,11 @@
       "nodeIds": [
         21812
       ],
-      "label": "光廊"
+      "label": "光廊",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 70,
@@ -1492,7 +1520,11 @@
       "nodeIds": [
         21796
       ],
-      "label": "第3貴賓室"
+      "label": "第3貴賓室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 71,
@@ -1521,7 +1553,11 @@
       "nodeIds": [
         21797
       ],
-      "label": "第4貴賓室"
+      "label": "第4貴賓室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 72,
@@ -1582,7 +1618,11 @@
       "nodeIds": [
         21798
       ],
-      "label": "貴賓簡報室"
+      "label": "貴賓簡報室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 74,
@@ -1607,7 +1647,11 @@
       "nodeIds": [
         21787
       ],
-      "label": "男回教祈禱室"
+      "label": "男回教祈禱室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 75,
@@ -1632,7 +1676,11 @@
       "nodeIds": [
         21786
       ],
-      "label": "女回教祈禱室"
+      "label": "女回教祈禱室",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 78,
@@ -1657,7 +1705,11 @@
       "nodeIds": [
         21799
       ],
-      "label": "新聞中心"
+      "label": "新聞中心",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 79,
@@ -1966,9 +2018,9 @@
       "presetId": 20,
       "presetType": "origin",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       },
       "isObstacle": false
     },
@@ -1999,9 +2051,9 @@
       "presetId": 1,
       "presetType": "origin",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2031,9 +2083,9 @@
       "presetId": 1,
       "presetType": "origin",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2063,9 +2115,9 @@
       "presetId": 1,
       "presetType": "origin",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2095,9 +2147,9 @@
       "presetId": 4,
       "presetType": "origin",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2127,9 +2179,9 @@
       "presetId": 4,
       "presetType": "origin",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2161,11 +2213,11 @@
         }
       ],
       "nodeIds": [],
-      "label": "Placement 95",
+      "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2191,9 +2243,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2219,9 +2271,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2247,9 +2299,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2275,9 +2327,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2303,9 +2355,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2343,9 +2395,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2379,9 +2431,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2415,9 +2467,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2443,9 +2495,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2471,9 +2523,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2499,9 +2551,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2527,9 +2579,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2563,9 +2615,9 @@
       "nodeIds": [],
       "label": "",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     }
   ]
