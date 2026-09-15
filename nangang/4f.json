@@ -1084,8 +1084,6 @@
       ],
       "nodeIds": [],
       "label": "緊急出口",
-      "presetId": 15,
-      "presetType": "origin",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -1114,8 +1112,6 @@
       ],
       "nodeIds": [],
       "label": "緊急出口",
-      "presetId": 15,
-      "presetType": "origin",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -1144,8 +1140,6 @@
       ],
       "nodeIds": [],
       "label": "緊急出口",
-      "presetId": 15,
-      "presetType": "origin",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
@@ -1174,8 +1168,6 @@
       ],
       "nodeIds": [],
       "label": "緊急出口",
-      "presetId": 15,
-      "presetType": "origin",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
