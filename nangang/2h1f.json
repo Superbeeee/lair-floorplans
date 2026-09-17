@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "baseImage": {
+    "url": "https://superbeeee.github.io/lair-floorplans/nangang/2h1f.jpg",
+    "width": 3000,
+    "height": 2000
+  },
+  "grid": {
+    "cellSize": 8,
+    "cols": 375,
+    "rows": 250,
+    "originOffset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "obstacles": [],
+  "passages": [],
+  "placements": []
+}
