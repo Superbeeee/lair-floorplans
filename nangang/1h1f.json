@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "baseImage": {
-    "url": "https://superbeeee.github.io/lair-floorplans/nangang/1h1f.jpg",
-    "width": 3000,
-    "height": 2000
+    "url": "https://superbeeee.github.io/lair-floorplans/nangang/1h1f.png",
+    "width": 3081,
+    "height": 2072
   },
   "grid": {
     "cellSize": 8,
-    "cols": 375,
-    "rows": 250,
+    "cols": 386,
+    "rows": 259,
     "originOffset": {
       "x": 0,
       "y": 0
