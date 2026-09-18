@@ -1615,7 +1615,8 @@
       "label": "I區展場",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1644,7 +1645,8 @@
       "label": "J區展場",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -1673,7 +1675,8 @@
       "label": "K區展場",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
