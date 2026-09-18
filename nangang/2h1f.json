@@ -1215,7 +1215,11 @@
       "nodeIds": [
         21843
       ],
-      "label": "東側廊道南區"
+      "label": "東側廊道南區",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     },
     {
       "id": 21,
@@ -1724,7 +1728,11 @@
       "nodeIds": [
         21842
       ],
-      "label": "東側廊道北區"
+      "label": "東側廊道北區",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
     }
   ]
 }
