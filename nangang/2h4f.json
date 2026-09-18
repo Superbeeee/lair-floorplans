@@ -446,7 +446,9 @@
           "y": 23
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21860
+      ],
       "label": "401會議室",
       "style": {
         "fillColorAlpha": 0,
@@ -473,7 +475,9 @@
           "y": 40
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21859
+      ],
       "label": "S區展場",
       "style": {
         "hideLabel": true,
@@ -501,7 +505,9 @@
           "y": 140
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21858
+      ],
       "label": "R區展場",
       "style": {
         "hideLabel": true,
@@ -583,7 +589,9 @@
           "y": 36
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21854
+      ],
       "label": "S區東側洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -613,7 +621,9 @@
           "y": 65
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21854
+      ],
       "label": "S區東側洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -643,7 +653,9 @@
           "y": 194
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21853
+      ],
       "label": "R區西側洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -673,7 +685,9 @@
           "y": 195
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21861
+      ],
       "label": "第2貴賓室",
       "presetId": 13,
       "presetType": "origin",
@@ -703,7 +717,9 @@
           "y": 151
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21855
+      ],
       "label": "醫護室",
       "presetId": 19,
       "presetType": "origin",
@@ -733,7 +749,9 @@
           "y": 50
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21862
+      ],
       "label": "廊道m-q區",
       "style": {
         "hideLabel": true,
@@ -761,7 +779,9 @@
           "y": 215
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21856
+      ],
       "label": "女回教祈禱室",
       "presetId": 12,
       "presetType": "origin",
@@ -791,7 +811,9 @@
           "y": 15
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21857
+      ],
       "label": "男回教祈禱室",
       "presetId": 11,
       "presetType": "origin",

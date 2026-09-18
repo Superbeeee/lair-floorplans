@@ -858,7 +858,9 @@
           "y": 70
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21989
+      ],
       "label": "Q區展場",
       "style": {
         "fillColorAlpha": 0,
@@ -885,7 +887,9 @@
           "y": 137
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21838
+      ],
       "label": "P區展場",
       "style": {
         "fillColorAlpha": 0,
@@ -912,7 +916,9 @@
           "y": 168
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21835
+      ],
       "label": "P區西側洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -942,7 +948,9 @@
           "y": 45
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21836
+      ],
       "label": "Q區東側洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -984,7 +992,9 @@
           "y": 12
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21844
+      ],
       "label": "戶外北區",
       "style": {
         "fillColorAlpha": 0,
@@ -1015,7 +1025,9 @@
           "y": 194
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21846
+      ],
       "label": "戶外南區",
       "style": {
         "fillColorAlpha": 0,
@@ -1042,7 +1054,9 @@
           "y": 135
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21845
+      ],
       "label": "戶外西區",
       "style": {
         "fillColorAlpha": 0,
@@ -1069,7 +1083,9 @@
           "y": 68
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21836
+      ],
       "label": "Q區東側洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -1099,7 +1115,9 @@
           "y": 87
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21834
+      ],
       "label": "醫護室",
       "presetId": 19,
       "presetType": "origin",
@@ -1129,7 +1147,9 @@
           "y": 180
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21833
+      ],
       "label": "哺集乳室",
       "presetId": 15,
       "presetType": "origin",
@@ -1159,7 +1179,9 @@
           "y": 38
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21841
+      ],
       "label": "多功能會議室",
       "style": {
         "fillColorAlpha": 0,
@@ -1186,7 +1208,9 @@
           "y": 148
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21843
+      ],
       "label": "東側廊道南區"
     },
     {
@@ -1217,7 +1241,9 @@
           "y": 180
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21840
+      ],
       "label": "第1貴賓室",
       "presetId": 13,
       "presetType": "origin",
@@ -1691,7 +1717,9 @@
           "y": 53
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21842
+      ],
       "label": "東側廊道北區"
     }
   ]

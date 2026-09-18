@@ -1024,7 +1024,9 @@
           "y": 136
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21711
+      ],
       "label": "急救設備(AED)",
       "presetId": 9,
       "presetType": "origin",
@@ -1186,7 +1188,9 @@
           "y": 42
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21723
+      ],
       "label": "光廊",
       "style": {
         "fillColorAlpha": 0,
@@ -1214,7 +1218,9 @@
           "y": 50
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21978
+      ],
       "label": "第1貴賓室",
       "presetId": 13,
       "presetType": "origin",
@@ -1244,7 +1250,9 @@
           "y": 95
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21979
+      ],
       "label": "第5貴賓室",
       "presetId": 13,
       "presetType": "origin",
@@ -1274,7 +1282,9 @@
           "y": 117
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21722
+      ],
       "label": "門廳",
       "style": {
         "fillColorAlpha": 0,
@@ -1302,7 +1312,9 @@
           "y": 91
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21700
+      ],
       "label": "西北側電梯",
       "presetId": 4,
       "presetType": "origin",
@@ -1332,7 +1344,9 @@
           "y": 44
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21697
+      ],
       "label": "西北側洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -1362,7 +1376,9 @@
           "y": 85
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21702
+      ],
       "label": "西北側手扶梯",
       "presetId": 10,
       "presetType": "origin",
@@ -1392,7 +1408,9 @@
           "y": 210
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21699
+      ],
       "label": "西南側洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -1422,7 +1440,9 @@
           "y": 165
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21703
+      ],
       "label": "西南側手扶梯",
       "presetId": 10,
       "presetType": "origin",
@@ -1452,7 +1472,9 @@
           "y": 156
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21701
+      ],
       "label": "西南側電梯",
       "presetId": 4,
       "presetType": "origin",
@@ -1482,7 +1504,9 @@
           "y": 202
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21980
+      ],
       "label": "第2貴賓室",
       "presetId": 13,
       "presetType": "origin",
@@ -1520,7 +1544,9 @@
           "y": 136
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21710
+      ],
       "label": "服務台",
       "presetId": 5,
       "presetType": "origin",
@@ -1550,7 +1576,9 @@
           "y": 24
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21724
+      ],
       "label": "戶外公共空間",
       "style": {
         "fillColorAlpha": 0,
@@ -1581,7 +1609,9 @@
           "y": 50
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21719
+      ],
       "label": "I區展場",
       "style": {
         "fillColorAlpha": 0,
@@ -1608,7 +1638,9 @@
           "y": 112
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21981
+      ],
       "label": "J區展場",
       "style": {
         "fillColorAlpha": 0,
@@ -1635,7 +1667,9 @@
           "y": 176
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21721
+      ],
       "label": "K區展場",
       "style": {
         "fillColorAlpha": 0,
@@ -1666,7 +1700,9 @@
           "y": 21
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21716
+      ],
       "label": "東北側手扶梯",
       "presetId": 2,
       "presetType": "origin",
@@ -1696,7 +1732,9 @@
           "y": 21
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21715
+      ],
       "label": "西北側手扶梯",
       "presetId": 3,
       "presetType": "origin",
@@ -1726,7 +1764,9 @@
           "y": 225
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21718
+      ],
       "label": "東南側手扶梯",
       "presetId": 2,
       "presetType": "origin",
@@ -1756,7 +1796,9 @@
           "y": 225
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21717
+      ],
       "label": "西南側手扶梯",
       "presetId": 3,
       "presetType": "origin",
@@ -1786,7 +1828,9 @@
           "y": 34
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21712
+      ],
       "label": "I區展場內洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -1816,7 +1860,9 @@
           "y": 103
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21713
+      ],
       "label": "J區展場內洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -1846,7 +1892,9 @@
           "y": 156
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21714
+      ],
       "label": "K區展場洗手間",
       "presetId": 1,
       "presetType": "origin",
@@ -1876,7 +1924,9 @@
           "y": 34
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21983
+      ],
       "label": "129多功能空間",
       "style": {
         "fillColorAlpha": 0,
@@ -1903,7 +1953,9 @@
           "y": 78
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21984
+      ],
       "label": "134多功能空間",
       "style": {
         "fillColorAlpha": 0,
@@ -1930,7 +1982,9 @@
           "y": 78
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21985
+      ],
       "label": "135多功能空間",
       "style": {
         "fillColorAlpha": 0,
@@ -1957,7 +2011,9 @@
           "y": 108
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21982
+      ],
       "label": "107多功能空間",
       "style": {
         "fillColorAlpha": 0,
@@ -1984,7 +2040,9 @@
           "y": 156
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21986
+      ],
       "label": "145多功能空間",
       "style": {
         "fillColorAlpha": 0,
@@ -2011,7 +2069,9 @@
           "y": 187
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21987
+      ],
       "label": "152多功能空間",
       "style": {
         "fillColorAlpha": 0,
@@ -2038,7 +2098,9 @@
           "y": 194
         }
       ],
-      "nodeIds": [],
+      "nodeIds": [
+        21988
+      ],
       "label": "153多功能空間",
       "style": {
         "fillColorAlpha": 0,
