@@ -833,9 +833,7 @@
         }
       ],
       "nodeIds": [],
-      "label": "西北側洗手間",
-      "presetId": 1,
-      "presetType": "origin",
+      "label": "",
       "style": {
         "hideLabel": true,
         "fillColorAlpha": 0,
