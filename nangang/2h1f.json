@@ -864,7 +864,8 @@
       "label": "Q區展場",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -893,7 +894,8 @@
       "label": "P區展場",
       "style": {
         "fillColorAlpha": 0,
-        "strokeAlpha": 0
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     },
     {
@@ -949,7 +951,7 @@
         }
       ],
       "nodeIds": [
-        21836
+        21839
       ],
       "label": "Q區東側洗手間",
       "presetId": 1,
@@ -1084,7 +1086,7 @@
         }
       ],
       "nodeIds": [
-        21836
+        21839
       ],
       "label": "Q區東側洗手間",
       "presetId": 1,
