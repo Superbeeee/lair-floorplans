@@ -15,8 +15,8 @@
     }
   },
   "defaultStart": {
-    "x": 270,
-    "y": 100
+    "x": 301,
+    "y": 166
   },
   "obstacles": [
     {
@@ -865,9 +865,9 @@
       ],
       "label": "Q區展場",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -895,9 +895,9 @@
       ],
       "label": "P區展場",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1732,6 +1732,38 @@
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 79,
+      "shape": [
+        {
+          "x": 303,
+          "y": 164
+        },
+        {
+          "x": 303,
+          "y": 167
+        },
+        {
+          "x": 308,
+          "y": 167
+        },
+        {
+          "x": 308,
+          "y": 164
+        }
+      ],
+      "nodeIds": [
+        21837
+      ],
+      "label": "服務台",
+      "presetId": 5,
+      "presetType": "origin",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     }
   ]
