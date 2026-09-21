@@ -14,6 +14,10 @@
       "y": 0
     }
   },
+  "defaultStart": {
+    "x": 295,
+    "y": 96
+  },
   "obstacles": [
     {
       "id": 45,
