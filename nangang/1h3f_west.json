@@ -1,0 +1,445 @@
+{
+  "schemaVersion": 1,
+  "baseImage": {
+    "url": "https://superbeeee.github.io/lair-floorplans/nangang/1h3f_west.jpg",
+    "width": 3000,
+    "height": 2000
+  },
+  "grid": {
+    "cellSize": 8,
+    "cols": 375,
+    "rows": 250,
+    "originOffset": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "obstacles": [
+    {
+      "id": 12,
+      "shape": [
+        {
+          "x": 126,
+          "y": 153
+        },
+        {
+          "x": 126,
+          "y": 152
+        },
+        {
+          "x": 94,
+          "y": 152
+        },
+        {
+          "x": 94,
+          "y": 153
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "shape": [
+        {
+          "x": 95,
+          "y": 152
+        },
+        {
+          "x": 95,
+          "y": 136
+        },
+        {
+          "x": 96,
+          "y": 136
+        },
+        {
+          "x": 96,
+          "y": 152
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "shape": [
+        {
+          "x": 95,
+          "y": 136
+        },
+        {
+          "x": 57,
+          "y": 134
+        },
+        {
+          "x": 57,
+          "y": 135
+        },
+        {
+          "x": 95,
+          "y": 138
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "shape": [
+        {
+          "x": 57,
+          "y": 134
+        },
+        {
+          "x": 57,
+          "y": 135
+        },
+        {
+          "x": 23,
+          "y": 133
+        },
+        {
+          "x": 23,
+          "y": 132
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "shape": [
+        {
+          "x": 23,
+          "y": 122
+        },
+        {
+          "x": 23,
+          "y": 132
+        },
+        {
+          "x": 24,
+          "y": 132
+        },
+        {
+          "x": 24,
+          "y": 122
+        }
+      ]
+    }
+  ],
+  "passages": [],
+  "placements": [
+    {
+      "id": 1,
+      "shape": [
+        {
+          "x": 113,
+          "y": 136
+        },
+        {
+          "x": 113,
+          "y": 144
+        },
+        {
+          "x": 140,
+          "y": 144
+        },
+        {
+          "x": 140,
+          "y": 136
+        }
+      ],
+      "nodeIds": [],
+      "label": "西北側手扶梯",
+      "presetId": 10,
+      "presetType": "origin",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
+    },
+    {
+      "id": 2,
+      "shape": [
+        {
+          "x": 50,
+          "y": 122
+        },
+        {
+          "x": 50,
+          "y": 104
+        },
+        {
+          "x": 65,
+          "y": 104
+        },
+        {
+          "x": 65,
+          "y": 122
+        }
+      ],
+      "nodeIds": [],
+      "label": "西北側洗手間",
+      "presetId": 1,
+      "presetType": "origin",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
+    },
+    {
+      "id": 3,
+      "shape": [
+        {
+          "x": 134,
+          "y": 104
+        },
+        {
+          "x": 134,
+          "y": 121
+        },
+        {
+          "x": 142,
+          "y": 121
+        },
+        {
+          "x": 142,
+          "y": 104
+        }
+      ],
+      "nodeIds": [],
+      "label": "西北側電梯",
+      "presetId": 4,
+      "presetType": "origin",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
+    },
+    {
+      "id": 4,
+      "shape": [
+        {
+          "x": 220,
+          "y": 104
+        },
+        {
+          "x": 220,
+          "y": 125
+        },
+        {
+          "x": 234,
+          "y": 125
+        },
+        {
+          "x": 234,
+          "y": 104
+        }
+      ],
+      "nodeIds": [],
+      "label": "西南側洗手間",
+      "presetId": 1,
+      "presetType": "origin",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
+    },
+    {
+      "id": 5,
+      "shape": [
+        {
+          "x": 261,
+          "y": 137
+        },
+        {
+          "x": 261,
+          "y": 144
+        },
+        {
+          "x": 286,
+          "y": 144
+        },
+        {
+          "x": 286,
+          "y": 137
+        }
+      ],
+      "nodeIds": [],
+      "label": "南側手扶梯",
+      "presetId": 10,
+      "presetType": "origin",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
+    },
+    {
+      "id": 6,
+      "shape": [
+        {
+          "x": 312,
+          "y": 104
+        },
+        {
+          "x": 312,
+          "y": 125
+        },
+        {
+          "x": 327,
+          "y": 125
+        },
+        {
+          "x": 327,
+          "y": 104
+        }
+      ],
+      "nodeIds": [],
+      "label": "西南側洗手間",
+      "presetId": 1,
+      "presetType": "origin",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
+    },
+    {
+      "id": 7,
+      "shape": [
+        {
+          "x": 234,
+          "y": 104
+        },
+        {
+          "x": 234,
+          "y": 125
+        },
+        {
+          "x": 242,
+          "y": 125
+        },
+        {
+          "x": 242,
+          "y": 104
+        }
+      ],
+      "nodeIds": [],
+      "label": "西南側電梯",
+      "presetId": 4,
+      "presetType": "origin",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
+      }
+    },
+    {
+      "id": 8,
+      "shape": [
+        {
+          "x": 23,
+          "y": 104
+        },
+        {
+          "x": 23,
+          "y": 122
+        },
+        {
+          "x": 50,
+          "y": 122
+        },
+        {
+          "x": 50,
+          "y": 104
+        }
+      ],
+      "nodeIds": [],
+      "label": "",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 9,
+      "shape": [
+        {
+          "x": 65,
+          "y": 104
+        },
+        {
+          "x": 65,
+          "y": 122
+        },
+        {
+          "x": 72,
+          "y": 122
+        },
+        {
+          "x": 72,
+          "y": 104
+        }
+      ],
+      "nodeIds": [],
+      "label": "",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 10,
+      "shape": [
+        {
+          "x": 119,
+          "y": 104
+        },
+        {
+          "x": 119,
+          "y": 122
+        },
+        {
+          "x": 134,
+          "y": 122
+        },
+        {
+          "x": 134,
+          "y": 104
+        }
+      ],
+      "nodeIds": [],
+      "label": "",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 11,
+      "shape": [
+        {
+          "x": 242,
+          "y": 104
+        },
+        {
+          "x": 242,
+          "y": 125
+        },
+        {
+          "x": 268,
+          "y": 125
+        },
+        {
+          "x": 268,
+          "y": 104
+        }
+      ],
+      "nodeIds": [],
+      "label": "",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    }
+  ]
+}
