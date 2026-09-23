@@ -1008,8 +1008,7 @@
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0
-      },
-      "isObstacle": false
+      }
     }
   ]
 }
