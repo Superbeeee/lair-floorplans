@@ -919,48 +919,6 @@
       ]
     },
     {
-      "id": 93,
-      "shape": [
-        {
-          "x": 53,
-          "y": 55
-        },
-        {
-          "x": 53,
-          "y": 73
-        },
-        {
-          "x": 63,
-          "y": 73
-        },
-        {
-          "x": 63,
-          "y": 55
-        }
-      ]
-    },
-    {
-      "id": 95,
-      "shape": [
-        {
-          "x": 53,
-          "y": 108
-        },
-        {
-          "x": 53,
-          "y": 146
-        },
-        {
-          "x": 64,
-          "y": 146
-        },
-        {
-          "x": 64,
-          "y": 108
-        }
-      ]
-    },
-    {
       "id": 97,
       "shape": [
         {
@@ -999,6 +957,48 @@
         {
           "x": 231,
           "y": 116
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "shape": [
+        {
+          "x": 53,
+          "y": 50
+        },
+        {
+          "x": 53,
+          "y": 55
+        },
+        {
+          "x": 64,
+          "y": 55
+        },
+        {
+          "x": 64,
+          "y": 50
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "shape": [
+        {
+          "x": 53,
+          "y": 108
+        },
+        {
+          "x": 64,
+          "y": 108
+        },
+        {
+          "x": 64,
+          "y": 142
+        },
+        {
+          "x": 53,
+          "y": 142
         }
       ]
     }
@@ -1197,38 +1197,6 @@
         "strokeAlpha": 0
       },
       "isObstacle": false
-    },
-    {
-      "id": 3,
-      "shape": [
-        {
-          "x": 53,
-          "y": 50
-        },
-        {
-          "x": 53,
-          "y": 55
-        },
-        {
-          "x": 64,
-          "y": 55
-        },
-        {
-          "x": 64,
-          "y": 50
-        }
-      ],
-      "nodeIds": [
-        21978
-      ],
-      "label": "第1貴賓室",
-      "presetId": 13,
-      "presetType": "origin",
-      "style": {
-        "hideLabel": true,
-        "fillColorAlpha": 0,
-        "strokeAlpha": 0
-      }
     },
     {
       "id": 4,
@@ -1614,9 +1582,9 @@
       ],
       "label": "I區展場",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1644,9 +1612,9 @@
       ],
       "label": "J區展場",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -1674,9 +1642,9 @@
       ],
       "label": "K區展場",
       "style": {
+        "hideLabel": true,
         "fillColorAlpha": 0,
-        "strokeAlpha": 0,
-        "hideLabel": true
+        "strokeAlpha": 0
       }
     },
     {
@@ -2705,8 +2673,12 @@
           "y": 44
         }
       ],
-      "nodeIds": [],
-      "label": "",
+      "nodeIds": [
+        21978
+      ],
+      "label": "第1貴賓室",
+      "presetId": 13,
+      "presetType": "origin",
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0
@@ -2872,6 +2844,62 @@
       "style": {
         "fillColorAlpha": 0,
         "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 104,
+      "shape": [
+        {
+          "x": 53,
+          "y": 73
+        },
+        {
+          "x": 64,
+          "y": 73
+        },
+        {
+          "x": 64,
+          "y": 55
+        },
+        {
+          "x": 53,
+          "y": 55
+        }
+      ],
+      "nodeIds": [],
+      "label": "",
+      "style": {
+        "hideLabel": true,
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0
+      }
+    },
+    {
+      "id": 106,
+      "shape": [
+        {
+          "x": 53,
+          "y": 146
+        },
+        {
+          "x": 53,
+          "y": 142
+        },
+        {
+          "x": 64,
+          "y": 142
+        },
+        {
+          "x": 64,
+          "y": 146
+        }
+      ],
+      "nodeIds": [],
+      "label": "",
+      "style": {
+        "fillColorAlpha": 0,
+        "strokeAlpha": 0,
+        "hideLabel": true
       }
     }
   ]
