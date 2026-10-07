@@ -1418,6 +1418,7 @@
         "strokeAlpha": 0,
         "hideLabel": true
       },
+      "isObstacle": false,
       "label": "",
       "nodeIds": []
     },
@@ -1473,6 +1474,7 @@
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       },
+      "isObstacle": false,
       "label": "M區門廳",
       "nodeIds": [
         21813
@@ -2124,6 +2126,7 @@
         "strokeAlpha": 0,
         "hideLabel": true
       },
+      "isObstacle": false,
       "label": "急救設備(AED)",
       "nodeIds": [
         21785

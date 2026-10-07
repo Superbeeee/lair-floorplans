@@ -4711,6 +4711,7 @@
         "strokeAlpha": 0,
         "hideLabel": true
       },
+      "isObstacle": false,
       "label": "急救設備(AED)",
       "nodeIds": [
         21711
@@ -4744,6 +4745,7 @@
         "fillColorAlpha": 0,
         "strokeAlpha": 0
       },
+      "isObstacle": false,
       "label": "門廳",
       "nodeIds": [
         21722
